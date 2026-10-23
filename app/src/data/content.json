@@ -1,0 +1,4042 @@
+[
+ {
+  "id": "matins",
+  "title": "Matins",
+  "printedPage": 219,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Matins"
+   },
+   {
+    "type": "rubric",
+    "text": "A hymn of invocation may be sung."
+   },
+   {
+    "type": "rubric",
+    "text": "Stand"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord, open my lips,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and my mouth will declare Your praise.",
+    "strong": true,
+    "citation": "Psalm 51:15"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Make haste, O God, to deliver me;"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "make haste to help me, O Lord.",
+    "strong": true,
+    "citation": "Psalm 70:1"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Glory be to the Father and to the Son and to the Holy Spirit;"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "as it was in the beginning, is now, and will be forever. Amen. Alleluia.",
+    "strong": true
+   },
+   {
+    "type": "rubric",
+    "text": "Alleluia is omitted during Lent."
+   },
+   {
+    "type": "heading",
+    "text": "Psalmody"
+   },
+   {
+    "type": "small-heading",
+    "text": "VENITE • O Come, Let Us Sing"
+   },
+   {
+    "type": "rubric",
+    "text": "The common or seasonal antiphon is sung or said before and after the Venite."
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Oh, come, let us worship Him."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Blessed be God, the Father, the Son, and the Holy Spirit.",
+    "strong": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "1",
+      "lines": [
+       "O come, let us sing to the Lord;",
+       "let us make a joyful noise to the rock of our salvation!"
+      ]
+     },
+     {
+      "number": "2",
+      "lines": [
+       "Let us come into his presence with thanksgiving;",
+       "let us make a joyful noise to him with songs of praise!"
+      ]
+     },
+     {
+      "number": "3",
+      "lines": [
+       "For the Lord is a great God",
+       "and a great King above all gods."
+      ]
+     },
+     {
+      "number": "4",
+      "lines": [
+       "In his hand are the depths of the earth;",
+       "the heights of the mountains are his also."
+      ]
+     },
+     {
+      "number": "5",
+      "lines": [
+       "The sea is his, for he made it,",
+       "and the dry land, which his hands have formed."
+      ]
+     },
+     {
+      "number": "6",
+      "lines": [
+       "O come, let us worship and bow down;",
+       "let us kneel before the Lord, our Maker!"
+      ]
+     },
+     {
+      "number": "7",
+      "lines": [
+       "For he is our God,",
+       "and we are the people of his pasture",
+       "and the sheep of his hand.",
+       "O that today you would listen to his voice!"
+      ]
+     },
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ],
+      "citation": "Psalm 95:1–7"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Oh, come, let us worship Him."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Blessed be God, the Father, the Son, and the Holy Spirit.",
+    "strong": true
+   },
+   {
+    "type": "rubric",
+    "text": "Sit"
+   },
+   {
+    "type": "small-heading",
+    "text": "PSALM"
+   },
+   {
+    "type": "rubric",
+    "text": "The psalm(s) appointed for the day are sung or said. Each psalm concludes with the Gloria Patri."
+   },
+   {
+    "type": "lectionary-reading",
+    "office": "morning",
+    "role": "psalm"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "small-heading",
+    "text": "OFFICE HYMN"
+   },
+   {
+    "type": "rubric",
+    "text": "The Office Hymn is sung."
+   },
+   {
+    "type": "heading",
+    "text": "Readings"
+   },
+   {
+    "type": "rubric",
+    "text": "The appointed reading is read."
+   },
+   {
+    "type": "lectionary-reading",
+    "office": "morning",
+    "role": "lesson"
+   },
+   {
+    "type": "rubric",
+    "text": "After the reading:"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord, have mercy on us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God.",
+    "strong": true
+   },
+   {
+    "type": "small-heading",
+    "text": "RESPONSORY"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Your word is a lamp to my feet"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and a light to my path.",
+    "strong": true,
+    "citation": "Psalm 119:105"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Blessed are those who hear the word of God and keep it."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Your word is a lamp to my feet and a light to my path.",
+    "strong": true,
+    "citation": "Luke 11:28"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Glory be to the Father and to the Son and to the Holy Spirit."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Your word is a lamp to my feet and a light to my path.",
+    "strong": true
+   },
+   {
+    "type": "rubric",
+    "text": "A sermon may follow."
+   },
+   {
+    "type": "rubric",
+    "text": "Stand"
+   },
+   {
+    "type": "small-heading",
+    "text": "CANTICLE • TE DEUM LAUDAMUS"
+   },
+   {
+    "type": "rubric",
+    "text": "The Te Deum or the Benedictus (see Morning Prayer) is sung."
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "We praise You, O God;",
+       "we acknowledge You to be the Lord.",
+       "All the earth now worships You,",
+       "the Father everlasting.",
+       "To You all angels cry aloud,",
+       "the heavens and all the powers therein;",
+       "to You cherubim and seraphim continually do cry:",
+       "Holy, holy, holy, Lord God of Sabaoth;",
+       "heaven and earth are full of the majesty of Your glory.",
+       "The glorious company of the apostles praise You.",
+       "The goodly fellowship of the prophets praise You.",
+       "The noble army of martyrs praise You.",
+       "The holy Church throughout all the world does acknowledge You:",
+       "the Father of an infinite majesty;",
+       "Your adorable, true, and only Son;",
+       "also the Holy Spirit, the Comforter.",
+       "You are the King of glory, O Christ;",
+       "You are the everlasting Son of the Father.",
+       "When You took upon Yourself to deliver man,",
+       "You humbled Yourself to be born of a virgin.",
+       "When You had overcome the sharpness of death,",
+       "You opened the kingdom of heaven to all believers.",
+       "You sit at the right hand of God in the glory of the Father.",
+       "We believe that You will come to be our judge.",
+       "We therefore pray You to help Your servants,",
+       "whom You have redeemed with Your precious blood.",
+       "Make them to be numbered with Your saints",
+       "in glory everlasting.",
+       "O Lord, save Your people and bless Your heritage;",
+       "govern them and lift them up forever.",
+       "Day by day we magnify You,",
+       "and we worship Your name forever, world without end.",
+       "Grant, O Lord, to keep us this day without sin.",
+       "O Lord, have mercy upon us; have mercy upon us.",
+       "O Lord, let Your mercy be upon us, as our trust is in You.",
+       "O Lord, in You have I trusted; let me never be confounded."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "text": "Prayer"
+   },
+   {
+    "type": "rubric",
+    "text": "Kneel/Stand"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Lord, have mercy."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Christ, have mercy. Lord, have mercy.",
+    "strong": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Our Father who art in heaven,",
+       "hallowed be Thy name,",
+       "Thy kingdom come,",
+       "Thy will be done on earth as it is in heaven;",
+       "give us this day our daily bread;",
+       "and forgive us our trespasses",
+       "as we forgive those who trespass against us;",
+       "and lead us not into temptation,",
+       "but deliver us from evil.",
+       "For Thine is the kingdom and the power and the glory",
+       "forever and ever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "The Collect of the Day is prayed."
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The Lord be with you."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "And with your spirit.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us pray."
+   },
+   {
+    "type": "rubric",
+    "text": "Collect of the Day"
+   },
+   {
+    "type": "small-heading",
+    "text": "COLLECT FOR GRACE"
+   },
+   {
+    "type": "paragraph",
+    "text": "O Lord, our heavenly Father, almighty and everlasting God, You have safely brought us to the beginning of this day. Defend us in the same with Your mighty power and grant that this day we fall into no sin, neither run into any kind of danger, but that all our doings, being ordered by Your governance, may be righteous in Your sight; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. **Amen.**"
+   },
+   {
+    "type": "small-heading",
+    "text": "BENEDICAMUS"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us bless the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God.",
+    "strong": true
+   },
+   {
+    "type": "small-heading",
+    "text": "BENEDICTION"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The grace of our Lord Jesus Christ and the love of God and the communion of the Holy Spirit be with you all.",
+    "citation": "2 Corinthians 13:14"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Amen.",
+    "strong": true
+   }
+  ]
+ },
+ {
+  "id": "vespers",
+  "title": "Vespers",
+  "printedPage": 229,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Vespers"
+   },
+   {
+    "type": "rubric",
+    "text": "A hymn of invocation may be sung."
+   },
+   {
+    "type": "rubric",
+    "text": "Stand"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord, come to my aid;"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "make haste to help me, O Lord.",
+    "strong": true,
+    "citation": "Psalm 70:1"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Glory be to the Father and to the Son and to the Holy Spirit;"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "as it was in the beginning, is now, and will be forever. Amen. Alleluia.",
+    "strong": true
+   },
+   {
+    "type": "rubric",
+    "text": "Alleluia is omitted during Lent."
+   },
+   {
+    "type": "heading",
+    "text": "Psalmody"
+   },
+   {
+    "type": "rubric",
+    "text": "Sit"
+   },
+   {
+    "type": "rubric",
+    "text": "The psalm(s) appointed for the evening are sung or said. Each psalm concludes with the Gloria Patri."
+   },
+   {
+    "type": "lectionary-reading",
+    "office": "evening",
+    "role": "psalm"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "small-heading",
+    "text": "OFFICE HYMN"
+   },
+   {
+    "type": "rubric",
+    "text": "The Office Hymn is sung."
+   },
+   {
+    "type": "heading",
+    "text": "Readings"
+   },
+   {
+    "type": "rubric",
+    "text": "The appointed reading is read."
+   },
+   {
+    "type": "lectionary-reading",
+    "office": "evening",
+    "role": "lesson"
+   },
+   {
+    "type": "rubric",
+    "text": "After the reading:"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord, have mercy on us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God.",
+    "strong": true
+   },
+   {
+    "type": "small-heading",
+    "text": "RESPONSORY"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "In many and various ways God spoke to His people of old by the prophets."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "But now in these last days He has spoken to us by His Son.",
+    "strong": true,
+    "citation": "Hebrews 1:1–2"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Glory be to the Father and to the Son and to the Holy Spirit."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "But now in these last days He has spoken to us by His Son.",
+    "strong": true
+   },
+   {
+    "type": "rubric",
+    "text": "A sermon may follow."
+   },
+   {
+    "type": "rubric",
+    "text": "Stand"
+   },
+   {
+    "type": "small-heading",
+    "text": "CANTICLE • MAGNIFICAT"
+   },
+   {
+    "type": "rubric",
+    "text": "The Magnificat or the Nunc Dimittis is sung."
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "46",
+      "lines": [
+       "And Mary said,",
+       "“My soul magnifies the Lord,"
+      ]
+     },
+     {
+      "number": "47",
+      "lines": [
+       "and my spirit rejoices in God my Savior,"
+      ]
+     },
+     {
+      "number": "48",
+      "lines": [
+       "for he has looked with favor on the lowly state of his servant.",
+       "Surely from now on all generations will call me blessed,"
+      ]
+     },
+     {
+      "number": "49",
+      "lines": [
+       "for the Mighty One has done great things for me,",
+       "and holy is his name;"
+      ]
+     },
+     {
+      "number": "50",
+      "lines": [
+       "indeed, his mercy is for those who fear him",
+       "from generation to generation."
+      ]
+     },
+     {
+      "number": "51",
+      "lines": [
+       "He has shown strength with his arm;",
+       "he has scattered the proud in the imagination of their hearts."
+      ]
+     },
+     {
+      "number": "52",
+      "lines": [
+       "He has brought down the powerful from their thrones",
+       "and lifted up the lowly;"
+      ]
+     },
+     {
+      "number": "53",
+      "lines": [
+       "he has filled the hungry with good things",
+       "and sent the rich away empty."
+      ]
+     },
+     {
+      "number": "54",
+      "lines": [
+       "He has come to the aid of his child Israel,",
+       "in remembrance of his mercy,"
+      ]
+     },
+     {
+      "number": "55",
+      "lines": [
+       "according to the promise he made to our ancestors,",
+       "to Abraham and to his descendants forever.”"
+      ]
+     },
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ],
+      "citation": "Luke 1:46–55"
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "text": "Prayer"
+   },
+   {
+    "type": "rubric",
+    "text": "Kneel/Stand"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Lord, have mercy."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Christ, have mercy. Lord, have mercy.",
+    "strong": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Our Father who art in heaven,",
+       "hallowed be Thy name,",
+       "Thy kingdom come,",
+       "Thy will be done on earth as it is in heaven;",
+       "give us this day our daily bread;",
+       "and forgive us our trespasses",
+       "as we forgive those who trespass against us;",
+       "and lead us not into temptation,",
+       "but deliver us from evil.",
+       "For Thine is the kingdom and the power and the glory",
+       "forever and ever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The Lord be with you."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "And with your spirit.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us pray."
+   },
+   {
+    "type": "rubric",
+    "text": "Collect of the Day"
+   },
+   {
+    "type": "small-heading",
+    "text": "COLLECT FOR PEACE"
+   },
+   {
+    "type": "paragraph",
+    "text": "O God, from whom come all holy desires, all good counsels, and all just works, give to us, Your servants, that peace which the world cannot give, that our hearts may be set to obey Your commandments and also that we, being defended from the fear of our enemies, may live in peace and quietness; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. **Amen.**"
+   },
+   {
+    "type": "small-heading",
+    "text": "BENEDICAMUS"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us bless the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God.",
+    "strong": true
+   },
+   {
+    "type": "small-heading",
+    "text": "BENEDICTION"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The grace of our Lord Jesus Christ and the love of God and the communion of the Holy Spirit be with you all.",
+    "citation": "2 Corinthians 13:14"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Amen.",
+    "strong": true
+   }
+  ]
+ },
+ {
+  "id": "morning-prayer",
+  "title": "Morning Prayer",
+  "printedPage": 235,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Morning Prayer"
+   },
+   {
+    "type": "rubric",
+    "text": "Stand"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord, open my lips,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and my mouth will declare Your praise.",
+    "strong": true,
+    "citation": "Psalm 51:15"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Make haste, O God, to deliver me;"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "make haste to help me, O Lord.",
+    "strong": true,
+    "citation": "Psalm 70:1"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Glory be to the Father and to the Son and to the Holy Spirit;"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "as it was in the beginning, is now, and will be forever. Amen. Alleluia.",
+    "strong": true
+   },
+   {
+    "type": "rubric",
+    "text": "Alleluia is omitted during Lent."
+   },
+   {
+    "type": "small-heading",
+    "text": "PASCHAL BLESSING"
+   },
+   {
+    "type": "rubric",
+    "text": "On Sundays, especially during the Easter season, the Paschal Blessing may be said."
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Alleluia! Christ is risen."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "He is risen indeed. Alleluia!",
+    "strong": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "1",
+      "lines": [
+       "But on the first day of the week, at early dawn, they went to the tomb, taking the spices that they had prepared."
+      ]
+     },
+     {
+      "number": "2",
+      "lines": [
+       "They found the stone rolled away from the tomb,"
+      ]
+     },
+     {
+      "number": "3",
+      "lines": [
+       "but when they went in they did not find the body."
+      ]
+     },
+     {
+      "number": "4",
+      "lines": [
+       "While they were perplexed about this, suddenly two men in dazzling clothes stood beside them."
+      ]
+     },
+     {
+      "number": "5",
+      "lines": [
+       "The women were terrified and bowed their faces to the ground, but the men said to them, “Why do you look for the living among the dead? He is not here but has risen."
+      ]
+     },
+     {
+      "number": "6",
+      "lines": [
+       "Remember how he told you, while he was still in Galilee,"
+      ]
+     },
+     {
+      "number": "7",
+      "lines": [
+       "that the Son of Man must be handed over to the hands of sinners and be crucified and on the third day rise again.”"
+      ],
+      "citation": "Luke 24:1–7"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us bless the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God. Alleluia!",
+    "strong": true
+   },
+   {
+    "type": "heading",
+    "text": "Psalmody"
+   },
+   {
+    "type": "small-heading",
+    "text": "VENITE"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "1",
+      "lines": [
+       "O come, let us sing to the Lord;",
+       "let us make a joyful noise to the rock of our salvation!"
+      ]
+     },
+     {
+      "number": "2",
+      "lines": [
+       "Let us come into his presence with thanksgiving;",
+       "let us make a joyful noise to him with songs of praise!"
+      ]
+     },
+     {
+      "number": "3",
+      "lines": [
+       "For the Lord is a great God",
+       "and a great King above all gods."
+      ]
+     },
+     {
+      "number": "4",
+      "lines": [
+       "In his hand are the depths of the earth;",
+       "the heights of the mountains are his also."
+      ]
+     },
+     {
+      "number": "5",
+      "lines": [
+       "The sea is his, for he made it,",
+       "and the dry land, which his hands have formed."
+      ]
+     },
+     {
+      "number": "6",
+      "lines": [
+       "O come, let us worship and bow down;",
+       "let us kneel before the Lord, our Maker!"
+      ]
+     },
+     {
+      "number": "7",
+      "lines": [
+       "For he is our God,",
+       "and we are the people of his pasture",
+       "and the sheep of his hand.",
+       "O that today you would listen to his voice!"
+      ]
+     },
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ],
+      "citation": "Psalm 95:1–7"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "rubric",
+    "text": "Sit"
+   },
+   {
+    "type": "small-heading",
+    "text": "PSALM"
+   },
+   {
+    "type": "rubric",
+    "text": "The psalm(s) appointed for the day are sung or said. Each concludes with the Gloria Patri."
+   },
+   {
+    "type": "lectionary-reading",
+    "office": "morning",
+    "role": "psalm"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "Silence for meditation"
+   },
+   {
+    "type": "small-heading",
+    "text": "OFFICE HYMN"
+   },
+   {
+    "type": "rubric",
+    "text": "The Office Hymn is sung."
+   },
+   {
+    "type": "heading",
+    "text": "Readings"
+   },
+   {
+    "type": "lectionary-reading",
+    "office": "morning",
+    "role": "lesson"
+   },
+   {
+    "type": "rubric",
+    "text": "After the reading:"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord, have mercy on us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God.",
+    "strong": true
+   },
+   {
+    "type": "small-heading",
+    "text": "RESPONSORY"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Lord, You have the words of eternal life."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "We have believed, and have come to know, that You are the Holy One of God.",
+    "strong": true,
+    "citation": "John 6:68–69"
+   },
+   {
+    "type": "rubric",
+    "text": "A sermon may follow."
+   },
+   {
+    "type": "rubric",
+    "text": "Stand"
+   },
+   {
+    "type": "small-heading",
+    "text": "CANTICLE • BENEDICTUS"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "68",
+      "lines": [
+       "“Blessed be the Lord God of Israel,",
+       "for he has looked favorably on his people and redeemed them."
+      ]
+     },
+     {
+      "number": "69",
+      "lines": [
+       "He has raised up a mighty savior for us",
+       "in the house of his child David,"
+      ]
+     },
+     {
+      "number": "70",
+      "lines": [
+       "as he spoke through the mouth of his holy prophets from of old,"
+      ]
+     },
+     {
+      "number": "71",
+      "lines": [
+       "that we would be saved from our enemies and from the hand of all who hate us."
+      ]
+     },
+     {
+      "number": "72",
+      "lines": [
+       "Thus he has shown the mercy promised to our ancestors",
+       "and has remembered his holy covenant,"
+      ]
+     },
+     {
+      "number": "73",
+      "lines": [
+       "the oath that he swore to our ancestor Abraham,",
+       "to grant us"
+      ]
+     },
+     {
+      "number": "74",
+      "lines": [
+       "that we, being rescued from the hands of our enemies,",
+       "might serve him without fear,"
+      ]
+     },
+     {
+      "number": "75",
+      "lines": [
+       "in holiness and righteousness",
+       "in his presence all our days."
+      ]
+     },
+     {
+      "number": "76",
+      "lines": [
+       "And you, child, will be called the prophet of the Most High,",
+       "for you will go before the Lord to prepare his ways,"
+      ]
+     },
+     {
+      "number": "77",
+      "lines": [
+       "to give his people knowledge of salvation",
+       "by the forgiveness of their sins."
+      ]
+     },
+     {
+      "number": "78",
+      "lines": [
+       "Because of the tender mercy of our God,",
+       "the dawn from on high will break upon us,"
+      ]
+     },
+     {
+      "number": "79",
+      "lines": [
+       "to shine upon those who sit in darkness and in the shadow of death,",
+       "to guide our feet into the way of peace.”"
+      ]
+     },
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ],
+      "citation": "Luke 1:68–79"
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "text": "Prayers"
+   },
+   {
+    "type": "rubric",
+    "text": "Kneel/Stand"
+   },
+   {
+    "type": "small-heading",
+    "text": "LITANY"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Lord, have mercy upon us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Christ, have mercy upon us. Lord, have mercy upon us.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Show us Your steadfast love, O Lord,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and grant us Your salvation.",
+    "strong": true,
+    "citation": "Psalm 85:7"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Create in me a clean heart, O God,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and renew a right spirit within me.",
+    "strong": true,
+    "citation": "Psalm 51:10"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Cast me not away from Your presence,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and take not Your Holy Spirit from me.",
+    "strong": true,
+    "citation": "Psalm 51:11"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Our Father who art in heaven,",
+       "hallowed be Thy name,",
+       "Thy kingdom come,",
+       "Thy will be done on earth as it is in heaven;",
+       "give us this day our daily bread;",
+       "and forgive us our trespasses",
+       "as we forgive those who trespass against us;",
+       "and lead us not into temptation,",
+       "but deliver us from evil.",
+       "For Thine is the kingdom and the power and the glory",
+       "forever and ever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "Collect of the Day"
+   },
+   {
+    "type": "rubric",
+    "text": "Other prayers may be offered."
+   },
+   {
+    "type": "small-heading",
+    "text": "COLLECT FOR GRACE"
+   },
+   {
+    "type": "paragraph",
+    "text": "O Lord, our heavenly Father, almighty and everlasting God, You have safely brought us to the beginning of this day. Defend us in the same with Your mighty power and grant that this day we fall into no sin, neither run into any kind of danger, but that all our doings, being ordered by Your governance, may be righteous in Your sight; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. **Amen.**"
+   },
+   {
+    "type": "small-heading",
+    "text": "BENEDICAMUS"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us bless the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God.",
+    "strong": true
+   },
+   {
+    "type": "small-heading",
+    "text": "BLESSING"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The almighty and merciful Lord, the Father, the ✠ Son, and the Holy Spirit, bless and preserve us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Amen.",
+    "strong": true
+   }
+  ]
+ },
+ {
+  "id": "evening-prayer",
+  "title": "Evening Prayer",
+  "printedPage": 243,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Evening Prayer"
+   },
+   {
+    "type": "small-heading",
+    "text": "SERVICE OF LIGHT"
+   },
+   {
+    "type": "rubric",
+    "text": "Stand"
+   },
+   {
+    "type": "rubric",
+    "text": "The candle may be carried in procession."
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Jesus Christ is the Light of the world,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "the light no darkness can overcome.",
+    "strong": true,
+    "citation": "John 8:12; 1:5"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Stay with us, Lord, for it is evening,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and the day is almost over.",
+    "strong": true,
+    "citation": "Luke 24:29"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let Your light scatter the darkness"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and illumine Your Church.",
+    "strong": true
+   },
+   {
+    "type": "small-heading",
+    "text": "PHOS HILARON • Joyous Light of Glory"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Joyous light of glory",
+       "of the immortal Father;",
+       "heavenly, holy, blessed Jesus Christ.",
+       "Now that we have come to the setting of the sun",
+       "and behold the evening light,",
+       "we praise God: Father, Son, and Holy Spirit.",
+       "You are worthy at all times",
+       "to be praised with happy voices,",
+       "O Son of God, O Giver of life,",
+       "and to be glorified through all the worlds."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "small-heading",
+    "text": "THANKSGIVING FOR LIGHT"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The Lord be with you."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "And with your spirit.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us give thanks to the Lord our God."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "It is right to give Him thanks and praise.",
+    "strong": true
+   },
+   {
+    "type": "paragraph",
+    "text": "Blessed are You, O Lord our God, King of the universe, who led Your people Israel by a pillar of cloud by day and a pillar of fire by night. Enlighten our darkness by the light of Your Christ; let His Word be a lamp to our feet and a light to our path; for You are merciful, and You love Your whole creation, and we, Your creatures, glorify You, Father, Son, and Holy Spirit. **Amen.**"
+   },
+   {
+    "type": "heading",
+    "text": "Psalmody"
+   },
+   {
+    "type": "small-heading",
+    "text": "PSALM 141"
+   },
+   {
+    "type": "rubric",
+    "text": "The antiphon is sung or said before and after the psalm."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Let my prayer rise before You as incense, the lifting up of my hands as the evening sacrifice.",
+    "strong": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "1",
+      "lines": [
+       "I call upon you, O Lord; come quickly to me;",
+       "give ear to my voice when I call to you."
+      ]
+     },
+     {
+      "number": "2",
+      "lines": [
+       "Let my prayer be counted as incense before you",
+       "and the lifting up of my hands as an evening sacrifice."
+      ]
+     },
+     {
+      "number": "3",
+      "lines": [
+       "Set a guard over my mouth, O Lord;",
+       "keep watch over the door of my lips."
+      ]
+     },
+     {
+      "number": "4",
+      "lines": [
+       "Do not turn my heart to any evil,",
+       "to busy myself with wicked deeds",
+       "in company with those who work iniquity;",
+       "do not let me eat of their delicacies."
+      ]
+     },
+     {
+      "number": "8",
+      "lines": [
+       "But my eyes are turned toward you, O God, my Lord;",
+       "in you I seek refuge; do not leave me defenseless."
+      ]
+     },
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ],
+      "citation": "Psalm 141:1–4, 8"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Let my prayer rise before You as incense, the lifting up of my hands as the evening sacrifice.",
+    "strong": true
+   },
+   {
+    "type": "rubric",
+    "text": "Silence for meditation"
+   },
+   {
+    "type": "paragraph",
+    "text": "Let the incense of our repentant prayer ascend before You, O Lord, and let Your loving-kindness descend upon us, that with purified minds we may sing Your praises with the Church on earth and the whole heavenly host and may glorify You forever and ever. **Amen.**"
+   },
+   {
+    "type": "rubric",
+    "text": "Sit"
+   },
+   {
+    "type": "small-heading",
+    "text": "PSALM"
+   },
+   {
+    "type": "rubric",
+    "text": "The psalm(s) appointed for the evening are sung or said."
+   },
+   {
+    "type": "lectionary-reading",
+    "office": "evening",
+    "role": "psalm"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "small-heading",
+    "text": "OFFICE HYMN"
+   },
+   {
+    "type": "rubric",
+    "text": "The Office Hymn is sung."
+   },
+   {
+    "type": "heading",
+    "text": "Readings"
+   },
+   {
+    "type": "lectionary-reading",
+    "office": "evening",
+    "role": "lesson"
+   },
+   {
+    "type": "rubric",
+    "text": "After the reading:"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord, have mercy on us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God.",
+    "strong": true
+   },
+   {
+    "type": "rubric",
+    "text": "A sermon may follow."
+   },
+   {
+    "type": "rubric",
+    "text": "Stand"
+   },
+   {
+    "type": "small-heading",
+    "text": "CANTICLE • MAGNIFICAT"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "46",
+      "lines": [
+       "And Mary said,",
+       "“My soul magnifies the Lord,"
+      ]
+     },
+     {
+      "number": "47",
+      "lines": [
+       "and my spirit rejoices in God my Savior,"
+      ]
+     },
+     {
+      "number": "48",
+      "lines": [
+       "for he has looked with favor on the lowly state of his servant.",
+       "Surely from now on all generations will call me blessed,"
+      ]
+     },
+     {
+      "number": "49",
+      "lines": [
+       "for the Mighty One has done great things for me,",
+       "and holy is his name;"
+      ]
+     },
+     {
+      "number": "50",
+      "lines": [
+       "indeed, his mercy is for those who fear him",
+       "from generation to generation."
+      ]
+     },
+     {
+      "number": "51",
+      "lines": [
+       "He has shown strength with his arm;",
+       "he has scattered the proud in the imagination of their hearts."
+      ]
+     },
+     {
+      "number": "52",
+      "lines": [
+       "He has brought down the powerful from their thrones",
+       "and lifted up the lowly;"
+      ]
+     },
+     {
+      "number": "53",
+      "lines": [
+       "he has filled the hungry with good things",
+       "and sent the rich away empty."
+      ]
+     },
+     {
+      "number": "54",
+      "lines": [
+       "He has come to the aid of his child Israel,",
+       "in remembrance of his mercy,"
+      ]
+     },
+     {
+      "number": "55",
+      "lines": [
+       "according to the promise he made to our ancestors,",
+       "to Abraham and to his descendants forever.”"
+      ]
+     },
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ],
+      "citation": "Luke 1:46–55"
+     }
+    ]
+   },
+   {
+    "type": "heading",
+    "text": "Prayers"
+   },
+   {
+    "type": "small-heading",
+    "text": "LITANY"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "In peace let us pray to the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Lord, have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "For the peace from above and for our salvation let us pray to the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Lord, have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "For the peace of the whole world, for the well-being of the Church of God, and for the unity of all let us pray to the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Lord, have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "For our homes and families, for our neighbors and friends, and for all who are dear to us let us pray to the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Lord, have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "For those who travel, for the sick and the suffering, for the dying, and for all in any need let us pray to the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Lord, have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "For a peaceful evening and a night of rest, and for a holy and quiet death, let us pray to the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Lord, have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Help, save, comfort, and defend us, gracious Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Amen.",
+    "strong": true
+   },
+   {
+    "type": "rubric",
+    "text": "Silence for individual prayer"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Our Father who art in heaven,",
+       "hallowed be Thy name,",
+       "Thy kingdom come,",
+       "Thy will be done on earth as it is in heaven;",
+       "give us this day our daily bread;",
+       "and forgive us our trespasses",
+       "as we forgive those who trespass against us;",
+       "and lead us not into temptation,",
+       "but deliver us from evil.",
+       "For Thine is the kingdom and the power and the glory",
+       "forever and ever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "Collect of the Day"
+   },
+   {
+    "type": "small-heading",
+    "text": "COLLECT FOR PEACE"
+   },
+   {
+    "type": "paragraph",
+    "text": "O God, from whom come all holy desires, all good counsels, and all just works, give to us, Your servants, that peace which the world cannot give, that our hearts may be set to obey Your commandments and also that we, being defended from the fear of our enemies, may live in peace and quietness; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. **Amen.**"
+   },
+   {
+    "type": "small-heading",
+    "text": "BENEDICAMUS"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us bless the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God.",
+    "strong": true
+   },
+   {
+    "type": "small-heading",
+    "text": "BLESSING"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The almighty and merciful Lord, the Father, the ✠ Son, and the Holy Spirit, bless and preserve us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Amen.",
+    "strong": true
+   }
+  ]
+ },
+ {
+  "id": "compline",
+  "title": "Compline",
+  "printedPage": 253,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Compline"
+   },
+   {
+    "type": "subtitle",
+    "text": "Prayer at the Close of the Day"
+   },
+   {
+    "type": "rubric",
+    "text": "Silence is kept."
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The Lord Almighty grant us a quiet night and peace at the last."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Amen.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "It is good to give thanks to the Lord,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "to sing praise to Your name, O Most High;",
+    "strong": true,
+    "citation": "Psalm 92:1"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "to herald Your love in the morning,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Your truth at the close of the day.",
+    "strong": true,
+    "citation": "Psalm 92:2"
+   },
+   {
+    "type": "heading",
+    "text": "Confession"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us confess our sin in the presence of God."
+   },
+   {
+    "type": "rubric",
+    "text": "Silence for reflection and self-examination."
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "I confess to God Almighty, before the whole company of heaven and to you, my brothers and sisters,",
+       "that I have sinned in thought, word, and deed by my fault, by my own fault, by my own most grievous fault; wherefore I pray God Almighty to have mercy on me, forgive me all my sins, and bring me to everlasting life. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The almighty and merciful Lord grant you pardon, ✠ forgiveness, and remission of all your sins."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Amen.",
+    "strong": true
+   },
+   {
+    "type": "rubric",
+    "text": "The people may then confess to the leader:"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "I confess to God Almighty, before the whole company of heaven and to you, my brother, that I have sinned in thought, word, and deed by my fault, by my own fault, by my own most grievous fault; wherefore I pray God Almighty to have mercy on me, forgive me all my sins, and bring me to everlasting life. Amen.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The almighty and merciful Lord grant you pardon, ✠ forgiveness, and remission of all your sins."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Amen.",
+    "strong": true
+   },
+   {
+    "type": "heading",
+    "text": "Psalmody"
+   },
+   {
+    "type": "rubric",
+    "text": "One or more of the following psalms are sung or said: Psalm 4, 91, 134 (or 33, 34, 136, 139)."
+   },
+   {
+    "type": "small-heading",
+    "text": "PSALM 4"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "1",
+      "lines": [
+       "Answer me when I call, O God of my right!",
+       "You gave me room when I was in distress.",
+       "Be gracious to me, and hear my prayer."
+      ]
+     },
+     {
+      "number": "2",
+      "lines": [
+       "How long, you people, shall my honor suffer shame?",
+       "How long will you love vain words and seek after lies? Selah"
+      ]
+     },
+     {
+      "number": "3",
+      "lines": [
+       "But know that the Lord has set apart the faithful for himself;",
+       "the Lord hears when I call to him."
+      ]
+     },
+     {
+      "number": "4",
+      "lines": [
+       "When you are disturbed, do not sin;",
+       "ponder it on your beds, and be silent. Selah"
+      ]
+     },
+     {
+      "number": "5",
+      "lines": [
+       "Offer right sacrifices,",
+       "and put your trust in the Lord."
+      ]
+     },
+     {
+      "number": "6",
+      "lines": [
+       "There are many who say, “O that we might see some good!",
+       "Let the light of your face shine on us, O Lord!”"
+      ]
+     },
+     {
+      "number": "7",
+      "lines": [
+       "You have put gladness in my heart",
+       "more than when their grain and wine abound."
+      ]
+     },
+     {
+      "number": "8",
+      "lines": [
+       "I will both lie down and sleep in peace,",
+       "for you alone, O Lord, make me lie down in safety."
+      ]
+     },
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ],
+      "citation": "Psalm 4"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "small-heading",
+    "text": "PSALM 91"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "1",
+      "lines": [
+       "You who live in the shelter of the Most High,",
+       "who abide in the shadow of the Almighty,"
+      ]
+     },
+     {
+      "number": "2",
+      "lines": [
+       "will say to the Lord, “My refuge and my fortress;",
+       "my God, in whom I trust.”"
+      ]
+     },
+     {
+      "number": "3",
+      "lines": [
+       "For he will deliver you from the snare of the hunter",
+       "and from the deadly pestilence;"
+      ]
+     },
+     {
+      "number": "4",
+      "lines": [
+       "he will cover you with his pinions,",
+       "and under his wings you will find refuge;",
+       "his faithfulness is a shield and defense."
+      ]
+     },
+     {
+      "number": "5",
+      "lines": [
+       "You will not fear the terror of the night",
+       "or the arrow that flies by day"
+      ]
+     },
+     {
+      "number": "6",
+      "lines": [
+       "or the pestilence that stalks in darkness",
+       "or the destruction that wastes at noonday."
+      ]
+     },
+     {
+      "number": "7",
+      "lines": [
+       "A thousand may fall at your side,",
+       "ten thousand at your right hand,",
+       "but it will not come near you."
+      ]
+     },
+     {
+      "number": "8",
+      "lines": [
+       "You will only look with your eyes",
+       "and see the punishment of the wicked."
+      ]
+     },
+     {
+      "number": "9",
+      "lines": [
+       "Because you have made the Lord your refuge,",
+       "the Most High your dwelling place,"
+      ]
+     },
+     {
+      "number": "10",
+      "lines": [
+       "no evil shall befall you,",
+       "no scourge come near your tent."
+      ]
+     },
+     {
+      "number": "11",
+      "lines": [
+       "For he will command his angels concerning you",
+       "to guard you in all your ways."
+      ]
+     },
+     {
+      "number": "12",
+      "lines": [
+       "On their hands they will bear you up,",
+       "so that you will not dash your foot against a stone."
+      ]
+     },
+     {
+      "number": "13",
+      "lines": [
+       "You will tread on the lion and the adder;",
+       "the young lion and the serpent you will trample under foot."
+      ]
+     },
+     {
+      "number": "14",
+      "lines": [
+       "Those who love me, I will deliver;",
+       "I will protect those who know my name."
+      ]
+     },
+     {
+      "number": "15",
+      "lines": [
+       "When they call to me, I will answer them;",
+       "I will be with them in trouble;",
+       "I will rescue them and honor them."
+      ]
+     },
+     {
+      "number": "16",
+      "lines": [
+       "With long life I will satisfy them",
+       "and show them my salvation."
+      ]
+     },
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ],
+      "citation": "Psalm 91"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "small-heading",
+    "text": "PSALM 134"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "1",
+      "lines": [
+       "Come, bless the Lord, all you servants of the Lord,",
+       "who stand by night in the house of the Lord!"
+      ]
+     },
+     {
+      "number": "2",
+      "lines": [
+       "Lift up your hands to the holy place,",
+       "and bless the Lord."
+      ]
+     },
+     {
+      "number": "3",
+      "lines": [
+       "May the Lord, maker of heaven and earth,",
+       "bless you from Zion."
+      ]
+     },
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ],
+      "citation": "Psalm 134"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "small-heading",
+    "text": "OFFICE HYMN"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Before the ending of the day,",
+       "Creator of the world, we pray",
+       "That with Thy wonted favor Thou",
+       "Wouldst be our guard and keeper now.",
+       "",
+       "From all ill dreams defend our eyes,",
+       "From nightly fears and fantasies;",
+       "Tread under foot our ghostly foe,",
+       "That no pollution we may know.",
+       "",
+       "O Father, that we ask be done,",
+       "Through Jesus Christ, Thine only Son,",
+       "Who, with the Holy Ghost and Thee,",
+       "Doth live and reign eternally. Amen."
+      ],
+      "citation": "Te lucis ante terminum; tr. John Mason Neale"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "heading",
+    "text": "Readings"
+   },
+   {
+    "type": "rubric",
+    "text": "One or more of the following readings is read."
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "9",
+      "lines": [
+       "Why should you be like someone confused,",
+       "like a mighty warrior who cannot give help?",
+       "Yet you, O Lord, are in the midst of us,",
+       "and we are called by your name;",
+       "do not forsake us!"
+      ],
+      "citation": "Jeremiah 14:9"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "28",
+      "lines": [
+       "“Come to me, all you who are weary and are carrying heavy burdens, and I will give you rest."
+      ]
+     },
+     {
+      "number": "29",
+      "lines": [
+       "Take my yoke upon you, and learn from me, for I am gentle and humble in heart, and you will find rest for your souls."
+      ]
+     },
+     {
+      "number": "30",
+      "lines": [
+       "For my yoke is easy, and my burden is light.”"
+      ],
+      "citation": "Matthew 11:28–30"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "27",
+      "lines": [
+       "Peace I leave with you; my peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled, and do not let them be afraid."
+      ],
+      "citation": "John 14:27"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "38",
+      "lines": [
+       "For I am convinced that neither death, nor life, nor angels, nor rulers, nor things present, nor things to come, nor powers,"
+      ]
+     },
+     {
+      "number": "39",
+      "lines": [
+       "nor height, nor depth, nor anything else in all creation will be able to separate us from the love of God in Christ Jesus our Lord."
+      ],
+      "citation": "Romans 8:38–39"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "6",
+      "lines": [
+       "Humble yourselves, therefore, under the mighty hand of God, so that he may exalt you in due time."
+      ]
+     },
+     {
+      "number": "7",
+      "lines": [
+       "Cast all your anxiety on him, because he cares for you."
+      ]
+     },
+     {
+      "number": "8",
+      "lines": [
+       "Discipline yourselves; keep alert. Like a roaring lion your adversary the devil prowls around, looking for someone to devour."
+      ]
+     },
+     {
+      "number": "9",
+      "lines": [
+       "Resist him, steadfast in your faith, for you know that your brothers and sisters in all the world are undergoing the same kinds of suffering."
+      ],
+      "citation": "1 Peter 5:6–9"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "rubric",
+    "text": "After the reading:"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord, have mercy on us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God.",
+    "strong": true
+   },
+   {
+    "type": "small-heading",
+    "text": "RESPONSORY"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Into Your hands, O Lord, I commend my spirit."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Into Your hands, O Lord, I commend my spirit.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "You have redeemed us, O Lord, God of truth."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "I commend my spirit.",
+    "strong": true,
+    "citation": "Psalm 31:5"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Glory be to the Father and to the Son and to the Holy Spirit."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Into Your hands, O Lord, I commend my spirit.",
+    "strong": true
+   },
+   {
+    "type": "heading",
+    "text": "Prayers"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Lord, have mercy."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Christ, have mercy. Lord, have mercy.",
+    "strong": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Our Father who art in heaven,",
+       "hallowed be Thy name,",
+       "Thy kingdom come,",
+       "Thy will be done on earth as it is in heaven;",
+       "give us this day our daily bread;",
+       "and forgive us our trespasses",
+       "as we forgive those who trespass against us;",
+       "and lead us not into temptation,",
+       "but deliver us from evil.",
+       "For Thine is the kingdom and the power and the glory",
+       "forever and ever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Into Your hands, O Lord, I commend my spirit;"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "for You have redeemed me, O Lord, God of truth.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Keep me as the apple of Your eye;"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "hide me in the shadow of Your wings.",
+    "strong": true,
+    "citation": "Psalm 17:8"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord, hear my prayer,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and let my cry come to You.",
+    "strong": true,
+    "citation": "Psalm 102:1"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us pray."
+   },
+   {
+    "type": "rubric",
+    "text": "One or more of the following prayers is said."
+   },
+   {
+    "type": "paragraph",
+    "text": "Visit our dwellings, O Lord, and drive from them all the snares of the enemy; let Your holy angels dwell with us to preserve us in peace; and let Your blessing be upon us always; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. **Amen.**"
+   },
+   {
+    "type": "paragraph",
+    "text": "Lighten our darkness, we beseech You, O Lord, and by Your great mercy defend us from all perils and dangers of this night; for the love of Your only Son, our Savior, Jesus Christ. **Amen.**"
+   },
+   {
+    "type": "paragraph",
+    "text": "Be present, merciful God, and protect us through the hours of this night, so that we who are wearied by the changes and chances of this life may rest in Your eternal changelessness; through Jesus Christ, our Lord. **Amen.**"
+   },
+   {
+    "type": "paragraph",
+    "text": "**I thank You, my heavenly Father, through Jesus Christ, Your dear Son, that You have graciously kept me this day; and I pray that You would forgive me all my sins where I have done wrong, and graciously keep me this night. For into Your hands I commend myself, my body and soul, and all things. Let Your holy angel be with me, that the evil foe may have no power over me. Amen.**",
+    "citation": "Small Catechism"
+   },
+   {
+    "type": "heading",
+    "text": "Nunc Dimittis"
+   },
+   {
+    "type": "rubric",
+    "text": "The antiphon is sung or said before and after the canticle."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Guide us waking, O Lord, and guard us sleeping, that awake we may watch with Christ and asleep we may rest in peace.",
+    "strong": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": "29",
+      "lines": [
+       "“Master, now you are dismissing your servant in peace,",
+       "according to your word,"
+      ]
+     },
+     {
+      "number": "30",
+      "lines": [
+       "for my eyes have seen your salvation,"
+      ]
+     },
+     {
+      "number": "31",
+      "lines": [
+       "which you have prepared in the presence of all peoples,"
+      ]
+     },
+     {
+      "number": "32",
+      "lines": [
+       "a light for revelation to the gentiles",
+       "and for glory to your people Israel.”"
+      ]
+     },
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ],
+      "citation": "Luke 2:29–32"
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Guide us waking, O Lord, and guard us sleeping, that awake we may watch with Christ and asleep we may rest in peace.",
+    "strong": true
+   },
+   {
+    "type": "small-heading",
+    "text": "BENEDICAMUS"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us bless the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God.",
+    "strong": true
+   },
+   {
+    "type": "small-heading",
+    "text": "BENEDICTION"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The almighty and merciful Lord, the Father, the ✠ Son, and the Holy Spirit, bless and preserve us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Amen.",
+    "strong": true
+   }
+  ]
+ },
+ {
+  "id": "responsive-prayer-1",
+  "title": "Responsive Prayer 1",
+  "printedPage": 282,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Responsive Prayer 1"
+   },
+   {
+    "type": "subtitle",
+    "text": "Suffrages"
+   },
+   {
+    "type": "rubric",
+    "text": "This order may be used in the morning or in the evening."
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Lord, have mercy upon us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Christ, have mercy upon us. Lord, have mercy upon us.",
+    "strong": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Our Father who art in heaven,",
+       "hallowed be Thy name,",
+       "Thy kingdom come,",
+       "Thy will be done on earth as it is in heaven;",
+       "give us this day our daily bread;",
+       "and forgive us our trespasses",
+       "as we forgive those who trespass against us;",
+       "and lead us not into temptation,",
+       "but deliver us from evil.",
+       "For Thine is the kingdom and the power and the glory",
+       "forever and ever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "I believe in God, the Father Almighty,",
+       "maker of heaven and earth.",
+       "And in Jesus Christ, His only Son, our Lord,",
+       "who was conceived by the Holy Spirit,",
+       "born of the virgin Mary,",
+       "suffered under Pontius Pilate,",
+       "was crucified, died and was buried.",
+       "He descended into hell.",
+       "The third day He rose again from the dead.",
+       "He ascended into heaven",
+       "and sits at the right hand of God the Father Almighty.",
+       "From thence He will come to judge the living and the dead.",
+       "I believe in the Holy Spirit,",
+       "the holy Christian Church,",
+       "the communion of saints,",
+       "the forgiveness of sins,",
+       "the resurrection of the body,",
+       "and the life ✠ everlasting. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "I said, Lord, be merciful to me;"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "heal my soul, for I have sinned against You.",
+    "strong": true,
+    "citation": "Psalm 41:4"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Return, O Lord! How long?"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Have pity on Your servants!",
+    "strong": true,
+    "citation": "Psalm 90:13"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let Your steadfast love, O Lord, be upon us,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "even as we hope in You.",
+    "strong": true,
+    "citation": "Psalm 33:22"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let Your priests be clothed with righteousness,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and let Your saints shout for joy.",
+    "strong": true,
+    "citation": "Psalm 132:9"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord, save Your people and bless Your heritage;"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "be their shepherd and carry them forever.",
+    "strong": true,
+    "citation": "Psalm 28:9"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Remember Your congregation,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "which You have purchased of old.",
+    "strong": true,
+    "citation": "Psalm 74:2"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Peace be within your walls"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and security within your towers!",
+    "strong": true,
+    "citation": "Psalm 122:7"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us pray for the faithful departed."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Blessed are the dead who die in the Lord from now on.",
+    "strong": true,
+    "citation": "Revelation 14:13"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Create in me a clean heart, O God,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and renew a right spirit within me.",
+    "strong": true,
+    "citation": "Psalm 51:10"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Cast me not away from Your presence,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and take not Your Holy Spirit from me.",
+    "strong": true,
+    "citation": "Psalm 51:11"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Restore to me the joy of Your salvation,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and uphold me with a willing spirit.",
+    "strong": true,
+    "citation": "Psalm 51:12"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord, hear my prayer."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "And let my cry come to You.",
+    "strong": true,
+    "citation": "Psalm 102:1"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us pray."
+   },
+   {
+    "type": "rubric",
+    "text": "In the morning"
+   },
+   {
+    "type": "paragraph",
+    "text": "O Lord, our heavenly Father, almighty and everlasting God, You have safely brought us to the beginning of this day. Defend us in the same with Your mighty power and grant that this day we fall into no sin, neither run into any kind of danger, but that all our doings, being ordered by Your governance, may be righteous in Your sight; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. **Amen.**"
+   },
+   {
+    "type": "rubric",
+    "text": "In the evening"
+   },
+   {
+    "type": "paragraph",
+    "text": "Lighten our darkness, we beseech You, O Lord, and by Your great mercy defend us from all perils and dangers of this night; for the love of Your only Son, our Savior, Jesus Christ. **Amen.**"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us bless the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The almighty and merciful Lord, the Father, the ✠ Son, and the Holy Spirit, bless and preserve us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Amen.",
+    "strong": true
+   }
+  ]
+ },
+ {
+  "id": "responsive-prayer-2",
+  "title": "Responsive Prayer 2",
+  "printedPage": 285,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Responsive Prayer 2"
+   },
+   {
+    "type": "rubric",
+    "text": "This order may be used at any time of day, especially for intercession."
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Lord, have mercy."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Christ, have mercy. Lord, have mercy.",
+    "strong": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Our Father who art in heaven,",
+       "hallowed be Thy name,",
+       "Thy kingdom come,",
+       "Thy will be done on earth as it is in heaven;",
+       "give us this day our daily bread;",
+       "and forgive us our trespasses",
+       "as we forgive those who trespass against us;",
+       "and lead us not into temptation,",
+       "but deliver us from evil.",
+       "For Thine is the kingdom and the power and the glory",
+       "forever and ever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Show us Your steadfast love, O Lord,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "and grant us Your salvation.",
+    "strong": true,
+    "citation": "Psalm 85:7"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Hear my prayer, O Lord;"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "let my cry come to You.",
+    "strong": true,
+    "citation": "Psalm 102:1"
+   },
+   {
+    "type": "small-heading",
+    "text": "PRAYERS"
+   },
+   {
+    "type": "rubric",
+    "text": "Prayers for the Church, the world, and those in need may be offered, each concluded:"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Lord, in Your mercy,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "hear our prayer.",
+    "strong": true
+   },
+   {
+    "type": "paragraph",
+    "text": "For the Church: Almighty God, grant to Your Church Your Holy Spirit and the wisdom that comes down from above, that Your Word may not be bound but have free course and be preached to the joy and edifying of Christ’s holy people; through Jesus Christ, our Lord. **Amen.**"
+   },
+   {
+    "type": "paragraph",
+    "text": "For those in need: Almighty and everlasting God, the comfort of the sad and the strength of those who suffer, let the prayers of Your children who cry out of any trouble come to You, that in every necessity they may rejoice to find Your mercy present with them; through Jesus Christ, our Lord. **Amen.**"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us bless the Lord."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Thanks be to God.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "The Lord bless us, defend us from all evil, and bring us to everlasting life."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Amen.",
+    "strong": true
+   }
+  ]
+ },
+ {
+  "id": "litany",
+  "title": "The Litany",
+  "printedPage": 288,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "The Litany"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Christ,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Christ,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "hear us.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "God the Father in heaven,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "God the Son, Redeemer of the world,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "God the Holy Spirit,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Be gracious to us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Spare us, good Lord.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Be gracious to us."
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Help us, good Lord.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "From all sin, from all error, from all evil; from the crafts and assaults of the devil; from sudden and evil death; from pestilence and famine; from war and bloodshed; from sedition and from rebellion; from lightning and tempest; from all calamity by fire and water; and from everlasting death:"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Good Lord, deliver us.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "By the mystery of Your holy incarnation; by Your holy nativity; by Your baptism, fasting, and temptation; by Your agony and bloody sweat; by Your cross and passion; by Your precious death and burial; by Your glorious resurrection and ascension; and by the coming of the Holy Spirit, the Comforter:"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Help us, good Lord.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "In all time of our tribulation; in all time of our prosperity; in the hour of death; and in the day of judgment:"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "Help us, good Lord.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "We poor sinners implore You"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "to hear us, O Lord.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "To rule and govern Your holy Christian Church; to preserve all pastors and ministers of Your Church in the true knowledge and understanding of Your wholesome Word and to sustain them in holy living; to put an end to all schisms and causes of offense; to bring into the way of truth all who have erred and are deceived; to beat down Satan under our feet; to send faithful laborers into Your harvest; and to accompany Your Word with Your grace and Spirit:"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "We implore You to hear us, good Lord.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "To raise up those who fall and to strengthen those who stand; and to comfort and help the weakhearted and the distressed:"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "We implore You to hear us, good Lord.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "To give to all peoples concord and peace; to preserve our land from discord and strife; to give our country Your protection in every time of need; to direct and defend all who are in authority; to bless and protect our magistrates and all our people; to watch over and help all who are in danger, necessity, and tribulation; to protect and guide all who travel; to grant all women with child, and all mothers with infant children, increasing happiness in their blessings; to defend all orphans and widows and provide for them; to strengthen and keep all sick persons and young children; to free those in bondage; and to have mercy on us all:"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "We implore You to hear us, good Lord.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "To forgive our enemies, persecutors, and slanderers and to turn their hearts; to give and preserve for our use the kindly fruits of the earth; and graciously to hear our prayers:"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "We implore You to hear us, good Lord.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Lord Jesus Christ, Son of God,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "we implore You to hear us.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Christ, the Lamb of God, who takes away the sin of the world,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Christ, the Lamb of God, who takes away the sin of the world,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Christ, the Lamb of God, who takes away the sin of the world,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "grant us Your peace.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Christ,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "hear us.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Christ,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "have mercy.",
+    "strong": true
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord,"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "have mercy. Amen.",
+    "strong": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Our Father who art in heaven,",
+       "hallowed be Thy name,",
+       "Thy kingdom come,",
+       "Thy will be done on earth as it is in heaven;",
+       "give us this day our daily bread;",
+       "and forgive us our trespasses",
+       "as we forgive those who trespass against us;",
+       "and lead us not into temptation,",
+       "but deliver us from evil.",
+       "For Thine is the kingdom and the power and the glory",
+       "forever and ever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "O Lord, deal not with us according to our sins"
+   },
+   {
+    "type": "dialogue",
+    "label": "C",
+    "text": "nor reward us according to our iniquities.",
+    "strong": true,
+    "citation": "Psalm 103:10"
+   },
+   {
+    "type": "dialogue",
+    "label": "L",
+    "text": "Let us pray."
+   },
+   {
+    "type": "paragraph",
+    "text": "Almighty God, merciful Father, You do not despise the sighing of a contrite heart nor the desire of those who are sorrowful. Mercifully assist our prayers that we make before You in all our troubles and adversities whenever they oppress us, that the evils which the craft and subtlety of the devil or man work against us be brought to nothing and by the providence of Your goodness they may be dispersed, that we, Your servants, being hurt by no persecutions, may evermore give thanks to You in Your holy Church; through Jesus Christ, Your Son, our Lord, who lives and reigns with You and the Holy Spirit, one God, now and forever. **Amen.**"
+   }
+  ]
+ },
+ {
+  "id": "daily-prayer-morning",
+  "title": "Daily Prayer: Morning",
+  "printedPage": 295,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Daily Prayer: Morning"
+   },
+   {
+    "type": "subtitle",
+    "text": "For Individuals and Families"
+   },
+   {
+    "type": "rubric",
+    "text": "These brief services are intended as a simple form of daily prayer for individuals and families, and in other settings."
+   },
+   {
+    "type": "rubric",
+    "text": "When more than one person is present, the versicles and responses may be spoken responsively, with one person reading the words in regular type and the others responding with the words in bold type. Prayers that are in bold type are to be prayed by all."
+   },
+   {
+    "type": "rubric",
+    "text": "For the readings, several verses have been recommended for each particular time of day. These may be used on a rotating basis. The value in using these few texts lies in the opportunity to learn them well. For those desiring a more complete selection of readings, the daily lectionary may be followed. Readings from the Small Catechism may also be incorporated into the services."
+   },
+   {
+    "type": "rubric",
+    "text": "In the prayers “for others and ourselves,” the following suggestions may be used to establish a pattern of daily and weekly prayer."
+   },
+   {
+    "type": "columns",
+    "rows": [
+     [
+      "Sunday",
+      "For the joy of the resurrection among us; for the fruit of faith nourished by the Word and the Sacraments."
+     ],
+     [
+      "Monday",
+      "For faith to live in the promises of Holy Baptism; for one’s calling and daily work; for the unemployed; for the salvation and well-being of our neighbors; for schools, colleges, and seminaries; for good government and for peace."
+     ],
+     [
+      "Tuesday",
+      "For deliverance against temptation and evil; for the addicted and despairing, the tortured and oppressed; for those struggling with sin."
+     ],
+     [
+      "Wednesday",
+      "For marriage and family, that husbands and wives, parents and children live in ordered harmony according to the Word of God; for parents who must raise children alone; for our communities and neighborhoods."
+     ],
+     [
+      "Thursday",
+      "For the Church and her pastors; for teachers, deaconesses, and other church workers; for missionaries and for all who serve the Church; for fruitful and salutary use of the blessed Sacrament of Christ’s body and blood."
+     ],
+     [
+      "Friday",
+      "For the preaching of the holy cross of our Lord Jesus Christ and for the spread of His knowledge throughout the whole world; for the persecuted and oppressed; for the sick and dying."
+     ],
+     [
+      "Saturday",
+      "For faithfulness to the end; for the renewal of those who are withering in the faith or have fallen away; for receptive hearts and minds to God’s Word on the Lord’s Day; for pastors and people as they prepare to administer and receive Christ’s holy gifts."
+     ]
+    ]
+   },
+   {
+    "type": "small-heading",
+    "text": "MORNING"
+   },
+   {
+    "type": "rubric",
+    "text": "The sign of the cross ✠ may be made by all in remembrance of their Baptism."
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "In the name of the Father and of the ✠ Son and of the Holy Spirit.",
+       "**Amen.**"
+      ]
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "In the morning, O Lord, You hear my voice;",
+       "**in the morning I prepare a sacrifice for You and watch.**"
+      ],
+      "citation": "Psalm 5:3"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "My mouth is filled with Your praise,",
+       "**and with Your glory all the day.**"
+      ],
+      "citation": "Psalm 71:8"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "O Lord, open my lips,",
+       "**and my mouth will declare Your praise.**"
+      ],
+      "citation": "Psalm 51:15"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "A hymn, canticle, or psalm may be sung or spoken."
+   },
+   {
+    "type": "rubric",
+    "text": "An appointed reading or one of the following is read: Colossians 3:1–4; Exodus 15:1–11; Isaiah 12:1–6; Matthew 20:1–16; Mark 13:32–36; Luke 24:1–9; John 21:4–14; Ephesians 4:17–24; Romans 6:1–4."
+   },
+   {
+    "type": "lectionary-reading",
+    "office": "morning",
+    "role": "lesson"
+   },
+   {
+    "type": "rubric",
+    "text": "A portion of the Small or Large Catechism may be read."
+   },
+   {
+    "type": "rubric",
+    "text": "The Apostles’ Creed is confessed."
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "I believe in God, the Father Almighty,",
+       "maker of heaven and earth.",
+       "And in Jesus Christ, His only Son, our Lord,",
+       "who was conceived by the Holy Spirit,",
+       "born of the virgin Mary,",
+       "suffered under Pontius Pilate,",
+       "was crucified, died and was buried.",
+       "He descended into hell.",
+       "The third day He rose again from the dead.",
+       "He ascended into heaven",
+       "and sits at the right hand of God the Father Almighty.",
+       "From thence He will come to judge the living and the dead.",
+       "I believe in the Holy Spirit,",
+       "the holy Christian Church,",
+       "the communion of saints,",
+       "the forgiveness of sins,",
+       "the resurrection of the body,",
+       "and the life ✠ everlasting. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "Lord’s Prayer"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Our Father who art in heaven,",
+       "hallowed be Thy name,",
+       "Thy kingdom come,",
+       "Thy will be done on earth as it is in heaven;",
+       "give us this day our daily bread;",
+       "and forgive us our trespasses",
+       "as we forgive those who trespass against us;",
+       "and lead us not into temptation,",
+       "but deliver us from evil.",
+       "For Thine is the kingdom and the power and the glory",
+       "forever and ever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "Prayers for others and ourselves"
+   },
+   {
+    "type": "weekday-intention"
+   },
+   {
+    "type": "rubric",
+    "text": "Concluding prayers:"
+   },
+   {
+    "type": "paragraph",
+    "text": "Almighty God, merciful Father, who created and completed all things, on this day when the work of our calling begins anew, we implore You to create its beginning, direct its continuance, and bless its end, that our doings may be preserved from sin, our life sanctified, and our work this day be well pleasing to You; through Jesus Christ, our Lord. **Amen.**"
+   },
+   {
+    "type": "paragraph",
+    "text": "**I thank You, my heavenly Father, through Jesus Christ, Your dear Son, that You have kept me this night from all harm and danger; and I pray that You would keep me this day also from sin and every evil, that all my doings and life may please You. For into Your hands I commend myself, my body and soul, and all things. Let Your holy angel be with me, that the evil foe may have no power over me. Amen.**",
+    "citation": "Small Catechism"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Let us bless the Lord.",
+       "**Thanks be to God.**"
+      ],
+      "citation": "[Psalm 103:1]"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "rubric",
+    "text": "Then go joyfully to your work."
+   }
+  ]
+ },
+ {
+  "id": "daily-prayer-noon",
+  "title": "Daily Prayer: Noon",
+  "printedPage": 296,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Daily Prayer: Noon"
+   },
+   {
+    "type": "rubric",
+    "text": "The sign of the cross ✠ may be made by all in remembrance of their Baptism."
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "In the name of the Father and of the ✠ Son and of the Holy Spirit.",
+       "**Amen.**"
+      ]
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Listen to my prayer, O God, do not ignore my plea;",
+       "**hear me and answer me.**",
+       "Evening, morning, and noon",
+       "**I cry out in distress, and He hears my voice.**",
+       "Cast your cares on the Lord and He will sustain you;",
+       "**He will never let the righteous fall.**"
+      ],
+      "citation": "Psalm 55:1–2a, 17, 22 NIV"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "A hymn, canticle, or psalm may be sung or spoken."
+   },
+   {
+    "type": "rubric",
+    "text": "An appointed reading or one of the following is read: 1 Corinthians 7:17a, 23–24; Luke 23:44–46; Matthew 5:13–16; Matthew 13:1–9, 18–23; Mark 13:24–27; John 15:1–9; Romans 7:18–25; Romans 12:1–2; 1 Peter 1:3–9; Revelation 7:13–17."
+   },
+   {
+    "type": "lectionary-reading",
+    "office": "midday",
+    "role": "lesson"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "O Lord,",
+       "**have mercy upon us.**",
+       "O Christ,",
+       "**have mercy upon us.**",
+       "O Lord,",
+       "**have mercy upon us.**"
+      ],
+      "citation": "Mark 10:47"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "rubric",
+    "text": "Lord’s Prayer"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Our Father who art in heaven,",
+       "hallowed be Thy name,",
+       "Thy kingdom come,",
+       "Thy will be done on earth as it is in heaven;",
+       "give us this day our daily bread;",
+       "and forgive us our trespasses",
+       "as we forgive those who trespass against us;",
+       "and lead us not into temptation,",
+       "but deliver us from evil.",
+       "For Thine is the kingdom and the power and the glory",
+       "forever and ever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "Prayers for others and ourselves"
+   },
+   {
+    "type": "weekday-intention"
+   },
+   {
+    "type": "rubric",
+    "text": "Concluding prayer:"
+   },
+   {
+    "type": "paragraph",
+    "text": "Blessed Lord Jesus Christ, at this hour You hung upon the cross, stretching out Your loving arms to embrace the world in Your death. Grant that all people of the earth may look to You and see their salvation; for Your mercy’s sake we pray. **Amen.**"
+   },
+   {
+    "type": "paragraph",
+    "text": "Heavenly Father, send Your Holy Spirit into our hearts to direct and rule us according to Your will, to comfort us in all our afflictions, to defend us from all error, and to lead us into all truth; through Jesus Christ, our Lord. **Amen.**"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Let us bless the Lord.",
+       "**Thanks be to God.**"
+      ],
+      "citation": "[Psalm 103:1]"
+     }
+    ],
+    "plain": true
+   }
+  ]
+ },
+ {
+  "id": "daily-prayer-evening",
+  "title": "Daily Prayer: Early Evening",
+  "printedPage": 297,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Daily Prayer: Early Evening"
+   },
+   {
+    "type": "rubric",
+    "text": "The sign of the cross ✠ may be made by all in remembrance of their Baptism."
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "In the name of the Father and of the ✠ Son and of the Holy Spirit.",
+       "**Amen.**"
+      ]
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "rubric",
+    "text": "A candle may be lighted."
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Let my prayer rise before You as incense,",
+       "**the lifting up of my hands as the evening sacrifice.**"
+      ],
+      "citation": "Psalm 141:2"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Joyous light of glory:",
+       "of the immortal Father;",
+       "heavenly, holy, blessed Jesus Christ.",
+       "We have come to the setting of the sun,",
+       "and we look to the evening light.",
+       "We sing to God, the Father, Son, and Holy Spirit:",
+       "You are worthy of being praised with pure voices forever.",
+       "O Son of God, O Giver of life: the universe proclaims Your glory."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "A hymn, canticle, or psalm may be sung or spoken."
+   },
+   {
+    "type": "rubric",
+    "text": "An appointed reading or one of the following is read: Luke 24:28–31; Exodus 16:11–21, 31; Isaiah 25:6–9; Matthew 14:15–21; Matthew 27:57–60; Luke 14:15–24; John 6:25–35; John 10:7–18; Ephesians 6:10–18a."
+   },
+   {
+    "type": "lectionary-reading",
+    "office": "evening",
+    "role": "lesson"
+   },
+   {
+    "type": "rubric",
+    "text": "A portion of the Small or Large Catechism may be read."
+   },
+   {
+    "type": "rubric",
+    "text": "Lord’s Prayer"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Our Father who art in heaven,",
+       "hallowed be Thy name,",
+       "Thy kingdom come,",
+       "Thy will be done on earth as it is in heaven;",
+       "give us this day our daily bread;",
+       "and forgive us our trespasses",
+       "as we forgive those who trespass against us;",
+       "and lead us not into temptation,",
+       "but deliver us from evil.",
+       "For Thine is the kingdom and the power and the glory",
+       "forever and ever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "Prayers for others and ourselves"
+   },
+   {
+    "type": "weekday-intention"
+   },
+   {
+    "type": "rubric",
+    "text": "Concluding prayer:"
+   },
+   {
+    "type": "paragraph",
+    "text": "Lord Jesus, stay with us, for the evening is at hand and the day is past. Be our constant companion on the way, kindle our hearts, and awaken hope among us, that we may recognize You as You are revealed in the Scriptures and in the breaking of the bread. Grant this for Your name’s sake. **Amen.**"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Let us bless the Lord.",
+       "**Thanks be to God.**"
+      ],
+      "citation": "[Psalm 103:1]"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "small-heading",
+    "text": "MEALTIME PRAYERS"
+   },
+   {
+    "type": "rubric",
+    "text": "Asking a blessing before the meal"
+   },
+   {
+    "type": "paragraph",
+    "text": "**Lord God, heavenly Father, bless us and these Your gifts which we receive from Your bountiful goodness, through Jesus Christ, our Lord. Amen.**",
+    "citation": "Small Catechism"
+   },
+   {
+    "type": "rubric",
+    "text": "Returning thanks after the meal"
+   },
+   {
+    "type": "paragraph",
+    "text": "**We thank You, Lord God, heavenly Father, for all Your benefits, through Jesus Christ, our Lord, who lives and reigns with You and the Holy Spirit forever and ever. Amen.**",
+    "citation": "Small Catechism"
+   }
+  ]
+ },
+ {
+  "id": "daily-prayer-close",
+  "title": "Daily Prayer: Close of the Day",
+  "printedPage": 298,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Daily Prayer: Close of the Day"
+   },
+   {
+    "type": "rubric",
+    "text": "The sign of the cross ✠ may be made by all in remembrance of their Baptism."
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "In the name of the Father and of the ✠ Son and of the Holy Spirit.",
+       "**Amen.**"
+      ]
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "The Lord Almighty grant us a quiet night and peace at the last.",
+       "**Amen.**"
+      ]
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "It is good to give thanks to the Lord,",
+       "**to sing praise to Your name, O Most High;**",
+       "To herald Your love in the morning,",
+       "**Your truth at the close of the day.**"
+      ],
+      "citation": "Psalm 92:1–2"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "rubric",
+    "text": "An appointed reading or one of the following is read: Matthew 11:28–30; Micah 7:18–20; Matthew 18:15–35; Matthew 25:1–13; Luke 11:1–13; Luke 12:13–34; Romans 8:31–39; 2 Corinthians 4:16–18; Revelation 21:22—22:5."
+   },
+   {
+    "type": "rubric",
+    "text": "The Apostles’ Creed is confessed."
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "I believe in God, the Father Almighty,",
+       "maker of heaven and earth.",
+       "And in Jesus Christ, His only Son, our Lord,",
+       "who was conceived by the Holy Spirit,",
+       "born of the virgin Mary,",
+       "suffered under Pontius Pilate,",
+       "was crucified, died and was buried.",
+       "He descended into hell.",
+       "The third day He rose again from the dead.",
+       "He ascended into heaven",
+       "and sits at the right hand of God the Father Almighty.",
+       "From thence He will come to judge the living and the dead.",
+       "I believe in the Holy Spirit,",
+       "the holy Christian Church,",
+       "the communion of saints,",
+       "the forgiveness of sins,",
+       "the resurrection of the body,",
+       "and the life ✠ everlasting. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Lord, now You let Your servant go in peace;",
+       "Your word has been fulfilled.",
+       "My own eyes have seen the salvation",
+       "which You have prepared in the sight of every people:",
+       "a light to reveal You to the nations",
+       "and the glory of Your people Israel."
+      ],
+      "citation": "Luke 2:29–32"
+     }
+    ]
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Glory be to the Father and to the Son and to the Holy Spirit;",
+       "as it was in the beginning, is now, and will be forever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "Lord’s Prayer"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Our Father who art in heaven,",
+       "hallowed be Thy name,",
+       "Thy kingdom come,",
+       "Thy will be done on earth as it is in heaven;",
+       "give us this day our daily bread;",
+       "and forgive us our trespasses",
+       "as we forgive those who trespass against us;",
+       "and lead us not into temptation,",
+       "but deliver us from evil.",
+       "For Thine is the kingdom and the power and the glory",
+       "forever and ever. Amen."
+      ]
+     }
+    ]
+   },
+   {
+    "type": "rubric",
+    "text": "Prayers for others and ourselves"
+   },
+   {
+    "type": "weekday-intention"
+   },
+   {
+    "type": "rubric",
+    "text": "Concluding prayers:"
+   },
+   {
+    "type": "paragraph",
+    "text": "Visit our dwellings, O Lord, and in Your great mercy defend us from all perils and dangers of this night; for the love of Your only Son, our Savior Jesus Christ. **Amen.**"
+   },
+   {
+    "type": "paragraph",
+    "text": "**I thank You, my heavenly Father, through Jesus Christ, Your dear Son, that You have graciously kept me this day; and I pray that You would forgive me all my sins where I have done wrong, and graciously keep me this night. For into Your hands I commend myself, my body and soul, and all things. Let Your holy angel be with me, that the evil foe may have no power over me. Amen.**",
+    "citation": "Small Catechism"
+   },
+   {
+    "type": "verse-block",
+    "verses": [
+     {
+      "number": null,
+      "lines": [
+       "Let us bless the Lord.",
+       "**Thanks be to God.**"
+      ],
+      "citation": "[Psalm 103:1]"
+     }
+    ],
+    "plain": true
+   },
+   {
+    "type": "rubric",
+    "text": "Then go to sleep at once and in good cheer."
+   }
+  ]
+ },
+ {
+  "id": "prayers",
+  "title": "Prayers and Intercessions",
+  "printedPage": 305,
+  "blocks": [
+   {
+    "type": "heading",
+    "text": "Prayers, Intercessions, and Thanksgivings"
+   },
+   {
+    "type": "rubric",
+    "text": "These prayers may be used in the offices where “other prayers” or “prayers for others and ourselves” are indicated."
+   },
+   {
+    "type": "heading",
+    "text": "The Church and Her Mission"
+   },
+   {
+    "type": "small-heading",
+    "text": "FOR THE CHURCH"
+   },
+   {
+    "type": "paragraph",
+    "text": "Merciful God, we humbly implore You to cast the bright beams of Your light upon Your Church that we, being instructed by the doctrine of the blessed apostles, may walk in the light of Your truth and finally attain to the light of everlasting life; through Jesus Christ, our Lord. **Amen.**"
+   },
+   {
+    "type": "paragraph",
+    "text": "Almighty God, grant to Your Church Your Holy Spirit and the wisdom that comes down from above, that Your Word may not be bound but have free course and be preached to the joy and edifying of Christ’s holy people, that in steadfast faith we may serve You and, in the confession of Your name, abide unto the end; through Jesus Christ, our Lord. **Amen.**"
+   },
+   {
+    "type": "small-heading",
+    "text": "FOR THE MISSION OF THE CHURCH"
+   },
+   {
+    "type": "paragraph",
+    "text": "Almighty God, You have called Your Church to witness that in Christ You have reconciled us to Yourself. Grant that by Your Holy Spirit we may proclaim the good news of Your salvation so that all who hear it may receive the gift of salvation; through Jesus Christ, our Lord. **Amen.**"
+   },
+   {
+    "type": "small-heading",
+    "text": "FOR THOSE OUTSIDE THE CHURCH"
+   },
+   {
+    "type": "paragraph",
+    "text": "Almighty and everlasting God, You desire not the death of a sinner but that all would repent and live. Hear our prayers for those outside the Church. Take away their iniquity, and turn them from their false gods to You, the living and true God. Gather them into Your holy Church to the glory of Your name; through Jesus Christ, our Lord. **Amen.**"
+   },
+   {
+    "type": "small-heading",
+    "text": "DEFENDING THE CHURCH FROM ERROR"
+   },
+   {
+    "type": "paragraph",
+    "text": "Almighty and everlasting God, You would have all to be saved and to come to the knowledge of the truth. By Your almighty power and unsearchable wisdom break and hinder all the counsels of those who hate Your Word and who, by corrupt teaching, would destroy it. Enlighten them with the knowledge of Your glory that they may know the riches of Your heavenly grace and, in peace and righteousness, serve You, the only true God; through Jesus Christ, our Lord. **Amen.**"
+   }
+  ]
+ }
+]

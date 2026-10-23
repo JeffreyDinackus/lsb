@@ -1,0 +1,2406 @@
+{
+ "churchYear": {
+  "ashwed:3": {
+   "ot": "Gen 1:1–19",
+   "nt": "Mark 1:1–13",
+   "additional": "Prayer Of Manasseh",
+   "additionalKind": "scripture"
+  },
+  "ashwed:4": {
+   "ot": "Gen 1:20—2:3",
+   "nt": "Mark 1:14–28",
+   "additional": "Sirach 1",
+   "additionalKind": "scripture"
+  },
+  "ashwed:5": {
+   "ot": "Gen 2:4–25",
+   "nt": "Mark 1:29–45",
+   "additional": "Sirach 2",
+   "additionalKind": "scripture"
+  },
+  "ashwed:6": {
+   "ot": "Gen 3:1–24",
+   "nt": "Mark 2:1–17",
+   "additional": "Sirach 3",
+   "additionalKind": "scripture"
+  },
+  "lent1:0": {
+   "ot": "Gen 4:1–26",
+   "nt": "Mark 2:18–28",
+   "additional": "Sirach 4",
+   "additionalKind": "scripture"
+  },
+  "lent1:1": {
+   "ot": "Gen 6:1—7:5",
+   "nt": "Mark 3:1–19",
+   "additional": "Sirach 5",
+   "additionalKind": "scripture"
+  },
+  "lent1:2": {
+   "ot": "Gen 7:11—8:12",
+   "nt": "Mark 3:20–35",
+   "additional": "Sirach 6",
+   "additionalKind": "scripture"
+  },
+  "lent1:3": {
+   "ot": "Gen 8:13—9:17",
+   "nt": "Mark 4:1–20",
+   "additional": "Gen 9:18—11:26",
+   "additionalKind": "scripture"
+  },
+  "lent1:4": {
+   "ot": "Gen 11:27—12:20",
+   "nt": "Mark 4:21–41",
+   "additional": "Sirach 7",
+   "additionalKind": "scripture"
+  },
+  "lent1:5": {
+   "ot": "Gen 13:1–18",
+   "nt": "Mark 5:1–20",
+   "additional": "Gen 14:1–24",
+   "additionalKind": "scripture"
+  },
+  "lent1:6": {
+   "ot": "Gen 15:1–21",
+   "nt": "Mark 5:21–43",
+   "additional": "Sirach 8",
+   "additionalKind": "scripture"
+  },
+  "lent2:0": {
+   "ot": "Gen 16:1–9, 15—17:22",
+   "nt": "Mark 6:1–13",
+   "additional": "Sirach 9",
+   "additionalKind": "scripture"
+  },
+  "lent2:1": {
+   "ot": "Gen 18:1–15",
+   "nt": "Mark 6:14–34",
+   "additional": "Gen 18:16—20:18",
+   "additionalKind": "scripture"
+  },
+  "lent2:2": {
+   "ot": "Gen 21:1–21",
+   "nt": "Mark 6:35–56",
+   "additional": "Sirach 10",
+   "additionalKind": "scripture"
+  },
+  "lent2:3": {
+   "ot": "Gen 22:1–19",
+   "nt": "Mark 7:1–23",
+   "additional": "Sirach 11",
+   "additionalKind": "scripture"
+  },
+  "lent2:4": {
+   "ot": "Gen 24:1–31",
+   "nt": "Mark 7:24–37",
+   "additional": "Sirach 12",
+   "additionalKind": "scripture"
+  },
+  "lent2:5": {
+   "ot": "Gen 24:32–52, 61–67",
+   "nt": "Mark 8:1–21",
+   "additional": "Gen 25:1—26:35",
+   "additionalKind": "scripture"
+  },
+  "lent2:6": {
+   "ot": "Gen 27:1–29",
+   "nt": "Mark 8:22–38",
+   "additional": "Sirach 13",
+   "additionalKind": "scripture"
+  },
+  "lent3:0": {
+   "ot": "Gen 27:30–45; 28:10–22",
+   "nt": "Mark 9:1–13",
+   "additional": "Sirach 14",
+   "additionalKind": "scripture"
+  },
+  "lent3:1": {
+   "ot": "Gen 29:1–30",
+   "nt": "Mark 9:14–32",
+   "additional": "Gen 29:31—34:31",
+   "additionalKind": "scripture"
+  },
+  "lent3:2": {
+   "ot": "Gen 35:1–29",
+   "nt": "Mark 9:33–50",
+   "additional": "Sirach 15",
+   "additionalKind": "scripture"
+  },
+  "lent3:3": {
+   "ot": "Gen 37:1–36",
+   "nt": "Mark 10:1–12",
+   "additional": "Sirach 16",
+   "additionalKind": "scripture"
+  },
+  "lent3:4": {
+   "ot": "Gen 39:1–23",
+   "nt": "Mark 10:13–31",
+   "additional": "Sirach 17",
+   "additionalKind": "scripture"
+  },
+  "lent3:5": {
+   "ot": "Gen 40:1–23",
+   "nt": "Mark 10:32–52",
+   "additional": "Sirach 18",
+   "additionalKind": "scripture"
+  },
+  "lent3:6": {
+   "ot": "Gen 41:1–27",
+   "nt": "Mark 11:1–19",
+   "additional": "Sirach 19",
+   "additionalKind": "scripture"
+  },
+  "lent4:0": {
+   "ot": "Gen 41:28–57",
+   "nt": "Mark 11:20–33",
+   "additional": "Sirach 20",
+   "additionalKind": "scripture"
+  },
+  "lent4:1": {
+   "ot": "Gen 42:1–34, 38",
+   "nt": "Mark 12:1–12",
+   "additional": "Sirach 21",
+   "additionalKind": "scripture"
+  },
+  "lent4:2": {
+   "ot": "Gen 43:1–28",
+   "nt": "Mark 12:13–27",
+   "additional": "Sirach 22",
+   "additionalKind": "scripture"
+  },
+  "lent4:3": {
+   "ot": "Gen 44:1–18, 32–34",
+   "nt": "Mark 12:28–44",
+   "additional": "Sirach 23",
+   "additionalKind": "scripture"
+  },
+  "lent4:4": {
+   "ot": "Gen 45:1–20, 24–28",
+   "nt": "Mark 13:1–23",
+   "additional": "Sirach 24",
+   "additionalKind": "scripture"
+  },
+  "lent4:5": {
+   "ot": "Gen 47:1–31",
+   "nt": "Mark 13:24–37",
+   "additional": "Gen 48:1—49:28",
+   "additionalKind": "scripture"
+  },
+  "lent4:6": {
+   "ot": "Gen 49:29—50:7, 14–26",
+   "nt": "Mark 14:1–11",
+   "additional": "Sirach 25",
+   "additionalKind": "scripture"
+  },
+  "lent5:0": {
+   "ot": "Ex 1:1–22",
+   "nt": "Mark 14:12–31",
+   "additional": "Sirach 26",
+   "additionalKind": "scripture"
+  },
+  "lent5:1": {
+   "ot": "Ex 2:1–22",
+   "nt": "Mark 14:32–52",
+   "additional": "Sirach 27",
+   "additionalKind": "scripture"
+  },
+  "lent5:2": {
+   "ot": "Ex 2:23—3:22",
+   "nt": "Mark 14:53–72",
+   "additional": "Sirach 28",
+   "additionalKind": "scripture"
+  },
+  "lent5:3": {
+   "ot": "Ex 4:1–18",
+   "nt": "Mark 15:1–15",
+   "additional": "Sirach 29",
+   "additionalKind": "scripture"
+  },
+  "lent5:4": {
+   "ot": "Ex 4:19–31",
+   "nt": "Mark 15:16–32",
+   "additional": "Sirach 30",
+   "additionalKind": "scripture"
+  },
+  "lent5:5": {
+   "ot": "Ex 5:1—6:1",
+   "nt": "Mark 15:33–47",
+   "additional": "Sirach 31",
+   "additionalKind": "scripture"
+  },
+  "lent5:6": {
+   "ot": "Ex 7:1–25",
+   "nt": "Mark 16:1–20",
+   "additional": "Sirach 32",
+   "additionalKind": "scripture"
+  },
+  "holyweek:0": {
+   "ot": "Ex 8:1–32",
+   "nt": "Heb 1:1–14",
+   "additional": "Psalm 118",
+   "additionalKind": "scripture"
+  },
+  "holyweek:1": {
+   "ot": "Ex 9:1–28",
+   "nt": "Heb 2:1–18",
+   "additional": "Lam 1:1–22",
+   "additionalKind": "scripture"
+  },
+  "holyweek:2": {
+   "ot": "Ex 9:29—10:20",
+   "nt": "Heb 3:1–19",
+   "additional": "Lam 2:1–22",
+   "additionalKind": "scripture"
+  },
+  "holyweek:3": {
+   "ot": "Ex 10:21—11:10",
+   "nt": "Heb 4:1–16",
+   "additional": "Lam 3:1–66",
+   "additionalKind": "scripture"
+  },
+  "holyweek:4": {
+   "ot": "Ex 12:1–28",
+   "nt": "Heb 5:1–14",
+   "additional": "Lam 4:1–22 and Psalm 31",
+   "additionalKind": "scripture"
+  },
+  "holyweek:5": {
+   "ot": "Ex 12:29–32; 13:1–16",
+   "nt": "Heb 6:1–20",
+   "additional": "Lam 5:1–22 and Psalm 22",
+   "additionalKind": "scripture"
+  },
+  "holyweek:6": {
+   "ot": "Ex 13:17—14:9",
+   "nt": "Heb 7:1–22",
+   "additional": "Prayer Of Azariah 1-27",
+   "additionalKind": "scripture"
+  },
+  "easter1:0": {
+   "ot": "Ex 14:10–31",
+   "nt": "Heb 7:23—8:13",
+   "additional": "Prayer Of Azariah 28-68",
+   "additionalKind": "scripture"
+  },
+  "easter1:1": {
+   "ot": "Ex 15:1–18",
+   "nt": "Heb 9:1–28",
+   "additional": "Sirach 33",
+   "additionalKind": "scripture"
+  },
+  "easter1:2": {
+   "ot": "Ex 15:19—16:12",
+   "nt": "Heb 10:1–18",
+   "additional": "Sirach 34",
+   "additionalKind": "scripture"
+  },
+  "easter1:3": {
+   "ot": "Ex 16:13–35",
+   "nt": "Heb 10:19–39",
+   "additional": "Sirach 35",
+   "additionalKind": "scripture"
+  },
+  "easter1:4": {
+   "ot": "Ex 17:1–16",
+   "nt": "Heb 11:1–29",
+   "additional": "Sirach 36",
+   "additionalKind": "scripture"
+  },
+  "easter1:5": {
+   "ot": "Ex 18:5–27",
+   "nt": "Heb 12:1–24",
+   "additional": "Sirach 37",
+   "additionalKind": "scripture"
+  },
+  "easter1:6": {
+   "ot": "Ex 19:1–25",
+   "nt": "Heb 13:1–21",
+   "additional": "Sirach 38",
+   "additionalKind": "scripture"
+  },
+  "easter2:0": {
+   "ot": "Ex 20:1–24",
+   "nt": "Luke 4:1–15",
+   "additional": "Sirach 39",
+   "additionalKind": "scripture"
+  },
+  "easter2:1": {
+   "ot": "Ex 22:20—23:13",
+   "nt": "Luke 4:16–30",
+   "additional": "Sirach 40",
+   "additionalKind": "scripture"
+  },
+  "easter2:2": {
+   "ot": "Ex 23:14–33",
+   "nt": "Luke 4:31–44",
+   "additional": "Sirach 41",
+   "additionalKind": "scripture"
+  },
+  "easter2:3": {
+   "ot": "Ex 24:1–18",
+   "nt": "Luke 5:1–16",
+   "additional": "Sirach 42",
+   "additionalKind": "scripture"
+  },
+  "easter2:4": {
+   "ot": "Ex 25:1–22",
+   "nt": "Luke 5:17–39",
+   "additional": "Ex 25:23—30:38",
+   "additionalKind": "scripture"
+  },
+  "easter2:5": {
+   "ot": "Ex 31:1–18",
+   "nt": "Luke 6:1–19",
+   "additional": "Sirach 43",
+   "additionalKind": "scripture"
+  },
+  "easter2:6": {
+   "ot": "Ex 32:1–14",
+   "nt": "Luke 6:20–38",
+   "additional": "Sirach 44",
+   "additionalKind": "scripture"
+  },
+  "easter3:0": {
+   "ot": "Ex 32:15–35",
+   "nt": "Luke 6:39–49",
+   "additional": "Sirach 45",
+   "additionalKind": "scripture"
+  },
+  "easter3:1": {
+   "ot": "Ex 33:1–23",
+   "nt": "Luke 7:1–17",
+   "additional": "Sirach 46",
+   "additionalKind": "scripture"
+  },
+  "easter3:2": {
+   "ot": "Ex 34:1–28",
+   "nt": "Luke 7:18–35",
+   "additional": "Sirach 47",
+   "additionalKind": "scripture"
+  },
+  "easter3:3": {
+   "ot": "Ex 34:29—35:21",
+   "nt": "Luke 7:36–50",
+   "additional": "Ex 35:22—38:20",
+   "additionalKind": "scripture"
+  },
+  "easter3:4": {
+   "ot": "Ex 38:21—39:8, 22–23, 27–31",
+   "nt": "Luke 8:1–21",
+   "additional": "Sirach 48",
+   "additionalKind": "scripture"
+  },
+  "easter3:5": {
+   "ot": "Ex 39:32—40:16",
+   "nt": "Luke 8:22–39",
+   "additional": "Sirach 49",
+   "additionalKind": "scripture"
+  },
+  "easter3:6": {
+   "ot": "Ex 40:17–38",
+   "nt": "Luke 8:40–56",
+   "additional": "Lev 1:1—7:38",
+   "additionalKind": "scripture"
+  },
+  "easter4:0": {
+   "ot": "Lev 8:1–13, 30–36",
+   "nt": "Luke 9:1–17",
+   "additional": "Sirach 50",
+   "additionalKind": "scripture"
+  },
+  "easter4:1": {
+   "ot": "Lev 9:1–24",
+   "nt": "Luke 9:18–36",
+   "additional": "Sirach 51",
+   "additionalKind": "scripture"
+  },
+  "easter4:2": {
+   "ot": "Lev 10:1–20",
+   "nt": "Luke 9:37–62",
+   "additional": "Lev 11:1—15:33",
+   "additionalKind": "scripture"
+  },
+  "easter4:3": {
+   "ot": "Lev 16:1–24",
+   "nt": "Luke 10:1–22",
+   "additional": "SA Pref. 1-15",
+   "additionalKind": "confessions"
+  },
+  "easter4:4": {
+   "ot": "Lev 17:1–16",
+   "nt": "Luke 10:23–42",
+   "additional": "SA 1:1-2/2:7",
+   "additionalKind": "confessions"
+  },
+  "easter4:5": {
+   "ot": "Lev 18:1–7, 20—19:8",
+   "nt": "Luke 11:1–13",
+   "additional": "SA 2/2:8-20",
+   "additionalKind": "confessions"
+  },
+  "easter4:6": {
+   "ot": "Lev 19:9–18, 26–37",
+   "nt": "Luke 11:14–36",
+   "additional": "SA 2/2:21-2/3",
+   "additionalKind": "confessions"
+  },
+  "easter5:0": {
+   "ot": "Lev 20:1–16, 22–27",
+   "nt": "Luke 11:37–54",
+   "additional": "SA 2/4:1-9",
+   "additionalKind": "confessions"
+  },
+  "easter5:1": {
+   "ot": "Lev 21:1–24",
+   "nt": "Luke 12:1–12",
+   "additional": "SA 2/4:10-16",
+   "additionalKind": "confessions"
+  },
+  "easter5:2": {
+   "ot": "Lev 23:1–22",
+   "nt": "Luke 12:13–34",
+   "additional": "SA 3/1-3/2",
+   "additionalKind": "confessions"
+  },
+  "easter5:3": {
+   "ot": "Lev 23:23–44",
+   "nt": "Luke 12:35–53",
+   "additional": "SA 3/3:1-18",
+   "additionalKind": "confessions"
+  },
+  "easter5:4": {
+   "ot": "Lev 24:1–23",
+   "nt": "Luke 12:54—13:17",
+   "additional": "Lev 25:1–55",
+   "additionalKind": "scripture"
+  },
+  "easter5:5": {
+   "ot": "Lev 26:1–20",
+   "nt": "Luke 13:18–35",
+   "additional": "SA 3/3:19-29",
+   "additionalKind": "confessions"
+  },
+  "easter5:6": {
+   "ot": "Lev 26:21–33, 39–44",
+   "nt": "Luke 14:1–24",
+   "additional": "Num 1:1—2:34",
+   "additionalKind": "scripture"
+  },
+  "easter6:0": {
+   "ot": "Num 3:1–16, 39–48",
+   "nt": "Luke 14:25—15:10",
+   "additional": "Num 4:1—8:4",
+   "additionalKind": "scripture"
+  },
+  "easter6:1": {
+   "ot": "Num 8:5–26",
+   "nt": "Luke 15:11–32",
+   "additional": "SA 3/3:30-45",
+   "additionalKind": "confessions"
+  },
+  "easter6:2": {
+   "ot": "Num 9:1–23",
+   "nt": "Luke 16:1–18",
+   "additional": "SA 3/4-3/7",
+   "additionalKind": "confessions"
+  },
+  "easter6:3": {
+   "ot": "Num 10:11–36",
+   "nt": "Luke 16:19–31",
+   "additional": "SA 3/8-3/9",
+   "additionalKind": "confessions"
+  },
+  "easter6:4": {
+   "ot": "Num 11:1–23, 31–35",
+   "nt": "Luke 17:1–19",
+   "additional": "SA 3/10-3/15",
+   "additionalKind": "confessions"
+  },
+  "easter6:5": {
+   "ot": "Num 11:24–29; 12:1–16",
+   "nt": "Luke 17:20–37",
+   "additional": "Tr. 1-11",
+   "additionalKind": "confessions"
+  },
+  "easter6:6": {
+   "ot": "Num 13:1–3, 17–33",
+   "nt": "Luke 18:1–17",
+   "additional": "Tr. 12-21",
+   "additionalKind": "confessions"
+  },
+  "easter7:0": {
+   "ot": "Num 14:1–25",
+   "nt": "Luke 18:18–34",
+   "additional": "Tr. 22-38",
+   "additionalKind": "confessions"
+  },
+  "easter7:1": {
+   "ot": "Num 14:26–45",
+   "nt": "Luke 18:35—19:10",
+   "additional": "Num 15:1–41",
+   "additionalKind": "scripture"
+  },
+  "easter7:2": {
+   "ot": "Num 16:1–22",
+   "nt": "Luke 19:11–28",
+   "additional": "Tr. 39-48",
+   "additionalKind": "confessions"
+  },
+  "easter7:3": {
+   "ot": "Num 16:23–40",
+   "nt": "Luke 19:29–48",
+   "additional": "Tr. 49-59",
+   "additionalKind": "confessions"
+  },
+  "easter7:4": {
+   "ot": "Num 16:41—17:13",
+   "nt": "Luke 20:1–18",
+   "additional": "Num 18:1—19:22",
+   "additionalKind": "scripture"
+  },
+  "easter7:5": {
+   "ot": "Num 20:1–21",
+   "nt": "Luke 20:19–44",
+   "additional": "Tr. 60-72",
+   "additionalKind": "confessions"
+  },
+  "easter7:6": {
+   "ot": "Num 20:22—21:9",
+   "nt": "Luke 20:45—21:19",
+   "additional": "Tr. 73-82",
+   "additionalKind": "confessions"
+  },
+  "pentecost:0": {
+   "ot": "Num 21:10–35",
+   "nt": "Luke 21:20–38",
+   "additional": "AC Pref., AC 1-3",
+   "additionalKind": "confessions"
+  },
+  "pentecost:1": {
+   "ot": "Num 22:1–20",
+   "nt": "Luke 22:1–23",
+   "additional": "AC 4-13",
+   "additionalKind": "confessions"
+  },
+  "pentecost:2": {
+   "ot": "Num 22:21—23:3",
+   "nt": "Luke 22:24–46",
+   "additional": "AC 14-19",
+   "additionalKind": "confessions"
+  },
+  "pentecost:3": {
+   "ot": "Num 23:4–28",
+   "nt": "Luke 22:47–71",
+   "additional": "AC 20-21",
+   "additionalKind": "confessions"
+  },
+  "pentecost:4": {
+   "ot": "Num 24:1–25",
+   "nt": "Luke 23:1–25",
+   "additional": "AC 22-24",
+   "additionalKind": "confessions"
+  },
+  "pentecost:5": {
+   "ot": "Num 27:12–23",
+   "nt": "Luke 23:26–56",
+   "additional": "AC 25-27",
+   "additionalKind": "confessions"
+  },
+  "pentecost:6": {
+   "ot": "Num 32:1–6, 16–27",
+   "nt": "Luke 24:1–27",
+   "additional": "AC 28, Concl.",
+   "additionalKind": "confessions"
+  },
+  "trinity:0": {
+   "ot": "Num 35:9–30",
+   "nt": "Luke 24:28–53",
+   "additional": "Acts 1:1—7:60",
+   "additionalKind": "scripture"
+  }
+ },
+ "byDate": {
+  "05-18": {
+   "ot": "Song 1:1—2:7",
+   "nt": "John 5:1–18",
+   "additional": "1 Macc. 1:1-28",
+   "additionalKind": "scripture"
+  },
+  "05-19": {
+   "ot": "Song 2:8—3:11",
+   "nt": "John 5:19–29",
+   "additional": "1 Macc. 1:29-62",
+   "additionalKind": "scripture"
+  },
+  "05-20": {
+   "ot": "Song 4:1—5:1",
+   "nt": "John 5:30–47",
+   "additional": "1 Macc. 2:1-38",
+   "additionalKind": "scripture"
+  },
+  "05-21": {
+   "ot": "Song 5:2—6:3",
+   "nt": "John 6:1–21",
+   "additional": "1 Macc. 2:39-69",
+   "additionalKind": "scripture"
+  },
+  "05-22": {
+   "ot": "Song 6:4—7:5",
+   "nt": "John 6:22–40",
+   "additional": "1 Macc. 3:1-31",
+   "additionalKind": "scripture"
+  },
+  "05-23": {
+   "ot": "Song 7:6—8:14",
+   "nt": "John 6:41–59",
+   "additional": "1 Macc. 3:32-60",
+   "additionalKind": "scripture"
+  },
+  "05-24": {
+   "ot": "Eccl 1:1–18",
+   "nt": "John 6:60–71",
+   "additional": "Esther 1:1—10:3",
+   "additionalKind": "scripture"
+  },
+  "05-25": {
+   "ot": "Eccl 2:1–26",
+   "nt": "John 7:1–13",
+   "additional": "Apocr. parts of Esther",
+   "additionalKind": "confessions"
+  },
+  "05-26": {
+   "ot": "Eccl 3:1–22",
+   "nt": "John 7:14–31",
+   "additional": "1 Macc. 4:1-33",
+   "additionalKind": "scripture"
+  },
+  "05-27": {
+   "ot": "Eccl 4:1–16",
+   "nt": "John 7:32–53",
+   "additional": "1 Macc. 4:34-61",
+   "additionalKind": "scripture"
+  },
+  "05-28": {
+   "ot": "Eccl 5:1–20",
+   "nt": "John 8:1–20",
+   "additional": "1 Macc. 5:1-36",
+   "additionalKind": "scripture"
+  },
+  "05-29": {
+   "ot": "Eccl 6:1—7:10",
+   "nt": "John 8:21–38",
+   "additional": "1 Macc. 5:37-68",
+   "additionalKind": "scripture"
+  },
+  "05-30": {
+   "ot": "Eccl 7:11–29",
+   "nt": "John 8:39–59",
+   "additional": "1 Macc. 6:1-31",
+   "additionalKind": "scripture"
+  },
+  "05-31": {
+   "ot": "Eccl 8:1–17",
+   "nt": "John 9:1–23",
+   "additional": "1 Macc. 6:32-63",
+   "additionalKind": "scripture"
+  },
+  "06-01": {
+   "ot": "Eccl 9:1–17",
+   "nt": "John 9:24–41",
+   "additional": "1 Macc. 7:1-32",
+   "additionalKind": "scripture"
+  },
+  "06-02": {
+   "ot": "Eccl 10:1–20",
+   "nt": "John 10:1–21",
+   "additional": "1 Macc. 7:33-50",
+   "additionalKind": "scripture"
+  },
+  "06-03": {
+   "ot": "Eccl 11:1–10",
+   "nt": "John 10:22–42",
+   "additional": "1 Macc. 8",
+   "additionalKind": "scripture"
+  },
+  "06-04": {
+   "ot": "Eccl 12:1–14",
+   "nt": "John 11:1–16",
+   "additional": "1 Macc. 9:1-42",
+   "additionalKind": "scripture"
+  },
+  "06-05": {
+   "ot": "Prov 1:8–33",
+   "nt": "John 11:17–37",
+   "additional": "1 Macc. 9:43-73",
+   "additionalKind": "scripture"
+  },
+  "06-06": {
+   "ot": "Prov 3:5–24",
+   "nt": "John 11:38–57",
+   "additional": "1 Macc. 10:1-45",
+   "additionalKind": "scripture"
+  },
+  "06-07": {
+   "ot": "Prov 4:1–27",
+   "nt": "John 12:1–19",
+   "additional": "1 Macc. 10:46-89",
+   "additionalKind": "scripture"
+  },
+  "06-08": {
+   "ot": "Prov 5:1–23",
+   "nt": "John 12:20–36a",
+   "additional": "Prov 6:1—7:27",
+   "additionalKind": "scripture"
+  },
+  "06-09": {
+   "ot": "Prov 8:1–21",
+   "nt": "John 12:36b–50",
+   "additional": "1 Macc. 11:1-37",
+   "additionalKind": "scripture"
+  },
+  "06-10": {
+   "ot": "Prov 8:22–36",
+   "nt": "John 13:1–20",
+   "additional": "1 Macc. 11:38-74",
+   "additionalKind": "scripture"
+  },
+  "06-11": {
+   "ot": "Prov 9:1–18",
+   "nt": "John 13:21–38",
+   "additional": "1 Macc. 12:1-23",
+   "additionalKind": "scripture"
+  },
+  "06-12": {
+   "ot": "Prov 10:1–23",
+   "nt": "John 14:1–17",
+   "additional": "Prov 11:1—12:28",
+   "additionalKind": "scripture"
+  },
+  "06-13": {
+   "ot": "Prov 13:1–25",
+   "nt": "John 14:18–31",
+   "additional": "1 Macc. 12:24-53",
+   "additionalKind": "scripture"
+  },
+  "06-14": {
+   "ot": "Prov 14:1–27",
+   "nt": "John 15:1–11",
+   "additional": "1 Macc. 13:1-30",
+   "additionalKind": "scripture"
+  },
+  "06-15": {
+   "ot": "Prov 15:1–29",
+   "nt": "John 15:12–27",
+   "additional": "1 Macc. 13:31-53",
+   "additionalKind": "scripture"
+  },
+  "06-16": {
+   "ot": "Prov 16:1–24",
+   "nt": "John 16:1–16",
+   "additional": "1 Macc. 14:1-27a",
+   "additionalKind": "scripture"
+  },
+  "06-17": {
+   "ot": "Prov 17:1–28",
+   "nt": "John 16:17–33",
+   "additional": "Prov 18:1—20:4",
+   "additionalKind": "scripture"
+  },
+  "06-18": {
+   "ot": "Prov 20:5–25",
+   "nt": "John 17:1–26",
+   "additional": "Prov 21:1–31",
+   "additionalKind": "scripture"
+  },
+  "06-19": {
+   "ot": "Prov 22:1–21",
+   "nt": "John 18:1–14",
+   "additional": "1 Macc. 14:27b-49",
+   "additionalKind": "scripture"
+  },
+  "06-20": {
+   "ot": "Prov 22:22—23:12",
+   "nt": "John 18:15–40",
+   "additional": "1 Macc. 15:1-24",
+   "additionalKind": "scripture"
+  },
+  "06-21": {
+   "ot": "Prov 24:1–22",
+   "nt": "John 19:1–22",
+   "additional": "1 Macc. 15:25-41",
+   "additionalKind": "scripture"
+  },
+  "06-22": {
+   "ot": "Prov 25:1–22",
+   "nt": "John 19:23–42",
+   "additional": "Prov 26:1–28",
+   "additionalKind": "scripture"
+  },
+  "06-23": {
+   "ot": "Prov 27:1–24",
+   "nt": "John 20:1–18",
+   "additional": "Prov 28:1—29:27",
+   "additionalKind": "scripture"
+  },
+  "06-24": {
+   "ot": "Prov 30:1–9, 18–33",
+   "nt": "John 20:19–31",
+   "additional": "1 Macc. 16",
+   "additionalKind": "scripture"
+  },
+  "06-25": {
+   "ot": "Prov 31:10–31",
+   "nt": "John 21:1–25",
+   "additional": "2 Macc. 1",
+   "additionalKind": "scripture"
+  },
+  "06-26": {
+   "ot": "Josh 1:1–18",
+   "nt": "Acts 8:1–25",
+   "additional": "2 Macc. 2",
+   "additionalKind": "scripture"
+  },
+  "06-27": {
+   "ot": "Josh 2:1–24",
+   "nt": "Acts 8:26–40",
+   "additional": "2 Macc. 3:1-21",
+   "additionalKind": "scripture"
+  },
+  "06-28": {
+   "ot": "Josh 3:1–17",
+   "nt": "Acts 9:1–22",
+   "additional": "2 Macc. 3:22-40",
+   "additionalKind": "scripture"
+  },
+  "06-29": {
+   "ot": "Josh 4:1–24",
+   "nt": "Acts 9:23–43",
+   "additional": "2 Macc. 4:1-22",
+   "additionalKind": "scripture"
+  },
+  "06-30": {
+   "ot": "Josh 5:1—6:5",
+   "nt": "Acts 10:1–17",
+   "additional": "2 Macc. 4:23-50",
+   "additionalKind": "scripture"
+  },
+  "07-01": {
+   "ot": "Josh 6:6–27",
+   "nt": "Acts 10:18–33",
+   "additional": "2 Macc. 5",
+   "additionalKind": "scripture"
+  },
+  "07-02": {
+   "ot": "Josh 7:1–26",
+   "nt": "Acts 10:34–48",
+   "additional": "2 Macc. 6",
+   "additionalKind": "scripture"
+  },
+  "07-03": {
+   "ot": "Josh 8:1–28",
+   "nt": "Acts 11:1–18",
+   "additional": "2 Macc. 7:1-19",
+   "additionalKind": "scripture"
+  },
+  "07-04": {
+   "ot": "Josh 10:1–25",
+   "nt": "Acts 11:19–30",
+   "additional": "Josh 10:28—22:34",
+   "additionalKind": "scripture"
+  },
+  "07-05": {
+   "ot": "Josh 23:1–16",
+   "nt": "Acts 12:1–25",
+   "additional": "2 Macc. 7:20-42",
+   "additionalKind": "scripture"
+  },
+  "07-06": {
+   "ot": "Josh 24:1–31",
+   "nt": "Acts 13:1–12",
+   "additional": "Judg 1:1–36",
+   "additionalKind": "scripture"
+  },
+  "07-07": {
+   "ot": "Judg 2:6–23",
+   "nt": "Acts 13:13–41",
+   "additional": "2 Macc. 8",
+   "additionalKind": "scripture"
+  },
+  "07-08": {
+   "ot": "Judg 3:7–31",
+   "nt": "Acts 13:42–52",
+   "additional": "2 Macc. 9",
+   "additionalKind": "scripture"
+  },
+  "07-09": {
+   "ot": "Judg 4:1–24",
+   "nt": "Acts 14:1–18",
+   "additional": "Judg 5:1–31",
+   "additionalKind": "scripture"
+  },
+  "07-10": {
+   "ot": "Judg 6:1–24",
+   "nt": "Acts 14:19—15:5",
+   "additional": "2 Macc. 10:1-23",
+   "additionalKind": "scripture"
+  },
+  "07-11": {
+   "ot": "Judg 6:25–40",
+   "nt": "Acts 15:6–21",
+   "additional": "2 Macc. 10:24-38",
+   "additionalKind": "scripture"
+  },
+  "07-12": {
+   "ot": "Judg 7:1–23",
+   "nt": "Gal 1:1–24",
+   "additional": "Judg 7:24—12:15",
+   "additionalKind": "scripture"
+  },
+  "07-13": {
+   "ot": "Judg 13:1–25",
+   "nt": "Gal 2:1–21",
+   "additional": "Ruth 1:1—4:22",
+   "additionalKind": "scripture"
+  },
+  "07-14": {
+   "ot": "Judg 14:1–20",
+   "nt": "Gal 3:1–22",
+   "additional": "2 Macc. 11",
+   "additionalKind": "scripture"
+  },
+  "07-15": {
+   "ot": "Judg 15:1—16:3",
+   "nt": "Gal 3:23—4:11",
+   "additional": "2 Macc. 12:1-25",
+   "additionalKind": "scripture"
+  },
+  "07-16": {
+   "ot": "Judg 16:4–30",
+   "nt": "Gal 4:12–31",
+   "additional": "Judg 17:1—21:25",
+   "additionalKind": "scripture"
+  },
+  "07-17": {
+   "ot": "1 Sam 1:1–20",
+   "nt": "Gal 5:1–26",
+   "additional": "2 Macc. 12:26-45",
+   "additionalKind": "scripture"
+  },
+  "07-18": {
+   "ot": "1 Sam 1:21—2:17",
+   "nt": "Gal 6:1–18",
+   "additional": "2 Macc. 13",
+   "additionalKind": "scripture"
+  },
+  "07-19": {
+   "ot": "1 Sam 2:18–36",
+   "nt": "Acts 15:22–41",
+   "additional": "2 Macc. 14:1-25",
+   "additionalKind": "scripture"
+  },
+  "07-20": {
+   "ot": "1 Sam 3:1–21",
+   "nt": "Acts 16:1–22",
+   "additional": "2 Macc. 14:26-46",
+   "additionalKind": "scripture"
+  },
+  "07-21": {
+   "ot": "1 Sam 4:1–22",
+   "nt": "Acts 16:23–40",
+   "additional": "Acts 17:1–34",
+   "additionalKind": "scripture"
+  },
+  "07-22": {
+   "ot": "1 Sam 5:1—6:3, 10–16",
+   "nt": "Acts 18:1–11, 23–28",
+   "additional": "2 Macc. 15:1-24",
+   "additionalKind": "scripture"
+  },
+  "07-23": {
+   "ot": "1 Sam 6:19—7:17",
+   "nt": "Acts 19:1–22",
+   "additional": "Acts 19:23—21:14",
+   "additionalKind": "scripture"
+  },
+  "07-24": {
+   "ot": "1 Sam 8:1–22",
+   "nt": "Acts 21:15–36",
+   "additional": "2 Macc. 15:25-39",
+   "additionalKind": "scripture"
+  },
+  "07-25": {
+   "ot": "1 Sam 9:1–27",
+   "nt": "Acts 21:37—22:16",
+   "additional": "Pref. to Book of Concord, Trig., pp. 7-9",
+   "additionalKind": "confessions"
+  },
+  "07-26": {
+   "ot": "1 Sam 10:1–27",
+   "nt": "Acts 22:17–29",
+   "additional": "Triglotta, pp. 11-13",
+   "additionalKind": "confessions"
+  },
+  "07-27": {
+   "ot": "1 Sam 12:1–25",
+   "nt": "Acts 22:30—23:11",
+   "additional": "Triglotta, pp. 15-17",
+   "additionalKind": "confessions"
+  },
+  "07-28": {
+   "ot": "1 Sam 13:1–18",
+   "nt": "Acts 23:12–35",
+   "additional": "Triglotta, pp. 19-21",
+   "additionalKind": "confessions"
+  },
+  "07-29": {
+   "ot": "1 Sam 14:47—15:9",
+   "nt": "Acts 24:1–23",
+   "additional": "Triglotta, pp. 23",
+   "additionalKind": "confessions"
+  },
+  "07-30": {
+   "ot": "1 Sam 15:10–35",
+   "nt": "Acts 24:24—25:12",
+   "additional": "Triglotta, pp. 25-27",
+   "additionalKind": "confessions"
+  },
+  "07-31": {
+   "ot": "1 Sam 16:1–23",
+   "nt": "Acts 25:13–27",
+   "additional": "FC SD Introduction 1-10",
+   "additionalKind": "confessions"
+  },
+  "08-01": {
+   "ot": "1 Sam 17:1–19",
+   "nt": "Acts 26:1–23",
+   "additional": "FC SD Summ. Form. 1-8",
+   "additionalKind": "confessions"
+  },
+  "08-02": {
+   "ot": "1 Sam 17:20–47",
+   "nt": "Acts 26:24—27:8",
+   "additional": "FC SD Summ. Form. 9-20",
+   "additionalKind": "confessions"
+  },
+  "08-03": {
+   "ot": "1 Sam 17:48—18:9",
+   "nt": "Acts 27:9–26",
+   "additional": "FC SD 1:1-7",
+   "additionalKind": "confessions"
+  },
+  "08-04": {
+   "ot": "1 Sam 18:10–30",
+   "nt": "Acts 27:27–44",
+   "additional": "FC SD 1:8-24",
+   "additionalKind": "confessions"
+  },
+  "08-05": {
+   "ot": "1 Sam 19:1–24",
+   "nt": "Acts 28:1–15",
+   "additional": "FC SD 1:25-33",
+   "additionalKind": "confessions"
+  },
+  "08-06": {
+   "ot": "1 Sam 20:1–23",
+   "nt": "Acts 28:16–31",
+   "additional": "FC SD 1:34-47",
+   "additionalKind": "confessions"
+  },
+  "08-07": {
+   "ot": "1 Sam 20:24–42",
+   "nt": "1 Cor 1:1–25",
+   "additional": "1 Sam 21:1—23:29",
+   "additionalKind": "scripture"
+  },
+  "08-08": {
+   "ot": "1 Sam 24:1–22",
+   "nt": "1 Cor 1:26—2:16",
+   "additional": "FC SD 1:48-62",
+   "additionalKind": "confessions"
+  },
+  "08-09": {
+   "ot": "1 Sam 25:1–22",
+   "nt": "1 Cor 3:1–23",
+   "additional": "FC SD 2:1-7",
+   "additionalKind": "confessions"
+  },
+  "08-10": {
+   "ot": "1 Sam 25:23–44",
+   "nt": "1 Cor 4:1–21",
+   "additional": "FC SD 2:8-16",
+   "additionalKind": "confessions"
+  },
+  "08-11": {
+   "ot": "1 Sam 26:1–25",
+   "nt": "1 Cor 5:1–13",
+   "additional": "1 Sam 27:1—28:2",
+   "additionalKind": "scripture"
+  },
+  "08-12": {
+   "ot": "1 Sam 28:3–25",
+   "nt": "1 Cor 6:1–20",
+   "additional": "1 Sam 29:1—30:30",
+   "additionalKind": "scripture"
+  },
+  "08-13": {
+   "ot": "1 Sam 31:1–13",
+   "nt": "1 Cor 7:1–24",
+   "additional": "FC SD 2:17-24",
+   "additionalKind": "confessions"
+  },
+  "08-14": {
+   "ot": "2 Sam 1:1–27",
+   "nt": "1 Cor 7:25–40",
+   "additional": "FC SD 2:25-35",
+   "additionalKind": "confessions"
+  },
+  "08-15": {
+   "ot": "2 Sam 5:1–25",
+   "nt": "1 Cor 8:1–13",
+   "additional": "FC SD 2:36-47",
+   "additionalKind": "confessions"
+  },
+  "08-16": {
+   "ot": "2 Sam 6:1–19",
+   "nt": "1 Cor 9:1–23",
+   "additional": "FC SD 2:48-58",
+   "additionalKind": "confessions"
+  },
+  "08-17": {
+   "ot": "2 Sam 7:1–17",
+   "nt": "1 Cor 9:24—10:22",
+   "additional": "FC SD 2:59-72",
+   "additionalKind": "confessions"
+  },
+  "08-18": {
+   "ot": "2 Sam 7:18–29",
+   "nt": "1 Cor 10:23—11:16",
+   "additional": "FC SD 2:73-83",
+   "additionalKind": "confessions"
+  },
+  "08-19": {
+   "ot": "2 Sam 11:1–27",
+   "nt": "1 Cor 11:17–34",
+   "additional": "FC SD 2:84-90",
+   "additionalKind": "confessions"
+  },
+  "08-20": {
+   "ot": "2 Sam 12:1–25",
+   "nt": "1 Cor 12:1–13",
+   "additional": "2 Sam 13:1—19:43",
+   "additionalKind": "scripture"
+  },
+  "08-21": {
+   "ot": "1 Kng 1:1–4, 15–35",
+   "nt": "1 Cor 12:14–31",
+   "additional": "FC SD 3:1-16",
+   "additionalKind": "confessions"
+  },
+  "08-22": {
+   "ot": "1 Kng 2:1–27",
+   "nt": "1 Cor 13:1–13",
+   "additional": "1 Cor 14:1—16:23",
+   "additionalKind": "scripture"
+  },
+  "08-23": {
+   "ot": "1 Kng 3:1–15",
+   "nt": "2 Cor 1:1–22",
+   "additional": "1 Kng 3:16—4:34",
+   "additionalKind": "scripture"
+  },
+  "08-24": {
+   "ot": "1 Kng 5:1–18",
+   "nt": "2 Cor 1:23—2:17",
+   "additional": "1 Kng 6:1—7:50",
+   "additionalKind": "scripture"
+  },
+  "08-25": {
+   "ot": "1 Kng 7:51—8:21",
+   "nt": "2 Cor 3:1–18",
+   "additional": "FC SD 3:17-23",
+   "additionalKind": "confessions"
+  },
+  "08-26": {
+   "ot": "1 Kng 8:22–30, 46–63",
+   "nt": "2 Cor 4:1–18",
+   "additional": "FC SD 3:24-35",
+   "additionalKind": "confessions"
+  },
+  "08-27": {
+   "ot": "1 Kng 9:1–9; 10:1–13",
+   "nt": "2 Cor 5:1–21",
+   "additional": "FC SD 3:36-43",
+   "additionalKind": "confessions"
+  },
+  "08-28": {
+   "ot": "1 Kng 11:1–26",
+   "nt": "2 Cor 6:1–18",
+   "additional": "FC SD 3:44-55",
+   "additionalKind": "confessions"
+  },
+  "08-29": {
+   "ot": "1 Kng 11:42—12:19",
+   "nt": "2 Cor 7:1–16",
+   "additional": "FC SD 3:56-67",
+   "additionalKind": "confessions"
+  },
+  "08-30": {
+   "ot": "1 Kng 12:20—13:5, 33–34",
+   "nt": "2 Cor 8:1–24",
+   "additional": "1 Kng 14:1—16:28",
+   "additionalKind": "scripture"
+  },
+  "08-31": {
+   "ot": "1 Kng 16:29—17:24",
+   "nt": "2 Cor 9:1–15",
+   "additional": "2 Cor 10:1—13:13",
+   "additionalKind": "scripture"
+  },
+  "09-01": {
+   "ot": "1 Kng 18:1–19",
+   "nt": "Eph 1:1–23",
+   "additional": "FC SD 4:1-12",
+   "additionalKind": "confessions"
+  },
+  "09-02": {
+   "ot": "1 Kng 18:20–40",
+   "nt": "Eph 2:1–22",
+   "additional": "FC SD 4:13-28",
+   "additionalKind": "confessions"
+  },
+  "09-03": {
+   "ot": "1 Kng 19:1–21",
+   "nt": "Eph 3:1–21",
+   "additional": "1 Kng 20:1—22:53",
+   "additionalKind": "scripture"
+  },
+  "09-04": {
+   "ot": "2 Kng 2:1–18",
+   "nt": "Eph 4:1–24",
+   "additional": "FC SD 4:29-40",
+   "additionalKind": "confessions"
+  },
+  "09-05": {
+   "ot": "2 Kng 2:19–25; 4:1–7",
+   "nt": "Eph 4:25—5:14",
+   "additional": "FC SD 5:1-13",
+   "additionalKind": "confessions"
+  },
+  "09-06": {
+   "ot": "2 Kng 4:8–22, 32–37",
+   "nt": "Eph 5:15–33",
+   "additional": "FC SD 5:14-27",
+   "additionalKind": "confessions"
+  },
+  "09-07": {
+   "ot": "2 Kng 4:38—5:8",
+   "nt": "Eph 6:1–24",
+   "additional": "Tobit 1",
+   "additionalKind": "scripture"
+  },
+  "09-08": {
+   "ot": "2 Kng 5:9–27",
+   "nt": "Phil 1:1–20",
+   "additional": "Tobit 2",
+   "additionalKind": "scripture"
+  },
+  "09-09": {
+   "ot": "2 Kng 6:1–23",
+   "nt": "Phil 1:21—2:11",
+   "additional": "2 Kng 6:24—8:29",
+   "additionalKind": "scripture"
+  },
+  "09-10": {
+   "ot": "2 Kng 9:1–13; 10:18–29",
+   "nt": "Phil 2:12–30",
+   "additional": "2 Kng 13:1—18:8",
+   "additionalKind": "scripture"
+  },
+  "09-11": {
+   "ot": "2 Chr 29:1–24",
+   "nt": "Phil 3:1–21",
+   "additional": "Tobit 3",
+   "additionalKind": "scripture"
+  },
+  "09-12": {
+   "ot": "2 Chr 31:1–21",
+   "nt": "Phil 4:1–23",
+   "additional": "Hosea 1:1—14:9",
+   "additionalKind": "scripture"
+  },
+  "09-13": {
+   "ot": "2 Chr 32:1–22",
+   "nt": "Col 1:1–23",
+   "additional": "Jonah 1:1—4:11",
+   "additionalKind": "scripture"
+  },
+  "09-14": {
+   "ot": "2 Chr 33:1–25",
+   "nt": "Col 1:24—2:7",
+   "additional": "Prayer Of Manasseh",
+   "additionalKind": "scripture"
+  },
+  "09-15": {
+   "ot": "2 Chr 34:1–4, 8–11, 14–33",
+   "nt": "Col 2:8–23",
+   "additional": "Nahum 1:1—3:19",
+   "additionalKind": "scripture"
+  },
+  "09-16": {
+   "ot": "2 Chr 35:1–7, 16–25",
+   "nt": "Col 3:1–25",
+   "additional": "Zeph 1:1—3:20",
+   "additionalKind": "scripture"
+  },
+  "09-17": {
+   "ot": "2 Chr 36:1–23",
+   "nt": "Col 4:1–18",
+   "additional": "Philemon 1–25",
+   "additionalKind": "scripture"
+  },
+  "09-18": {
+   "ot": "Neh 1:1—2:10",
+   "nt": "1 Tim 1:1–20",
+   "additional": "Haggai 1:1—2:23",
+   "additionalKind": "scripture"
+  },
+  "09-19": {
+   "ot": "Neh 2:11–20; 4:1–6",
+   "nt": "1 Tim 2:1–15",
+   "additional": "Tobit 4",
+   "additionalKind": "scripture"
+  },
+  "09-20": {
+   "ot": "Neh 4:7–23",
+   "nt": "1 Tim 3:1–16",
+   "additional": "Tobit 5",
+   "additionalKind": "scripture"
+  },
+  "09-21": {
+   "ot": "Neh 5:1–16; 6:1–9, 15–16",
+   "nt": "1 Tim 4:1–16",
+   "additional": "Tobit 6",
+   "additionalKind": "scripture"
+  },
+  "09-22": {
+   "ot": "Neh 7:1–4; 8:1–18",
+   "nt": "1 Tim 5:1–16",
+   "additional": "Ezra 1:1—10:19",
+   "additionalKind": "scripture"
+  },
+  "09-23": {
+   "ot": "Neh 9:1–21",
+   "nt": "1 Tim 5:17—6:2",
+   "additional": "Tobit 7",
+   "additionalKind": "scripture"
+  },
+  "09-24": {
+   "ot": "Neh 9:22–38",
+   "nt": "1 Tim 6:3–21",
+   "additional": "Neh 10:1—13:31",
+   "additionalKind": "scripture"
+  },
+  "09-25": {
+   "ot": "Mal 1:1–14",
+   "nt": "Matt 3:1–17",
+   "additional": "Tobit 8",
+   "additionalKind": "scripture"
+  },
+  "09-26": {
+   "ot": "Mal 2:1—3:5",
+   "nt": "Matt 4:1–11",
+   "additional": "Tobit 9-10",
+   "additionalKind": "scripture"
+  },
+  "09-27": {
+   "ot": "Mal 3:6—4:6",
+   "nt": "Matt 4:12–25",
+   "additional": "Tobit 11",
+   "additionalKind": "scripture"
+  },
+  "09-28": {
+   "ot": "Deut 1:1–18",
+   "nt": "Matt 5:1–20",
+   "additional": "Tobit 12",
+   "additionalKind": "scripture"
+  },
+  "09-29": {
+   "ot": "Deut 1:19–36",
+   "nt": "Matt 5:21–48",
+   "additional": "Tobit 13",
+   "additionalKind": "scripture"
+  },
+  "09-30": {
+   "ot": "Deut 1:37—2:15",
+   "nt": "Matt 6:1–15",
+   "additional": "Tobit 14",
+   "additionalKind": "scripture"
+  },
+  "10-01": {
+   "ot": "Deut 2:16–37",
+   "nt": "Matt 6:16–34",
+   "additional": "FC SD 6:1-9",
+   "additionalKind": "confessions"
+  },
+  "10-02": {
+   "ot": "Deut 3:1–29",
+   "nt": "Matt 7:1–12",
+   "additional": "FC SD 6:10-19",
+   "additionalKind": "confessions"
+  },
+  "10-03": {
+   "ot": "Deut 4:1–20",
+   "nt": "Matt 7:13–29",
+   "additional": "FC SD 6:20-26",
+   "additionalKind": "confessions"
+  },
+  "10-04": {
+   "ot": "Deut 4:21–40",
+   "nt": "Matt 8:1–17",
+   "additional": "FC SD 7:1-6",
+   "additionalKind": "confessions"
+  },
+  "10-05": {
+   "ot": "Deut 5:1–21",
+   "nt": "Matt 8:18–34",
+   "additional": "FC SD 7:7-16",
+   "additionalKind": "confessions"
+  },
+  "10-06": {
+   "ot": "Deut 5:22—6:9",
+   "nt": "Matt 9:1–17",
+   "additional": "FC SD 7:17-27",
+   "additionalKind": "confessions"
+  },
+  "10-07": {
+   "ot": "Deut 6:10–25",
+   "nt": "Matt 9:18–38",
+   "additional": "FC SD 7:28-40",
+   "additionalKind": "confessions"
+  },
+  "10-08": {
+   "ot": "Deut 7:1–19",
+   "nt": "Matt 10:1–23",
+   "additional": "FC SD 7:41-47",
+   "additionalKind": "confessions"
+  },
+  "10-09": {
+   "ot": "Deut 8:1–20",
+   "nt": "Matt 10:24–42",
+   "additional": "FC SD 7:48-58",
+   "additionalKind": "confessions"
+  },
+  "10-10": {
+   "ot": "Deut 9:1–22",
+   "nt": "Matt 11:1–19",
+   "additional": "FC SD 7:59-67",
+   "additionalKind": "confessions"
+  },
+  "10-11": {
+   "ot": "Deut 9:23—10:22",
+   "nt": "Matt 11:20–30",
+   "additional": "FC SD 7:68-84",
+   "additionalKind": "confessions"
+  },
+  "10-12": {
+   "ot": "Deut 11:1–25",
+   "nt": "Matt 12:1–21",
+   "additional": "FC SD 7:85-92",
+   "additionalKind": "confessions"
+  },
+  "10-13": {
+   "ot": "Deut 11:26—12:12",
+   "nt": "Matt 12:22–37",
+   "additional": "FC SD 7:93-103",
+   "additionalKind": "confessions"
+  },
+  "10-14": {
+   "ot": "Deut 12:13–32",
+   "nt": "Matt 12:38–50",
+   "additional": "FC SD 7:104-110",
+   "additionalKind": "confessions"
+  },
+  "10-15": {
+   "ot": "Deut 13:1–18",
+   "nt": "Matt 13:1–23",
+   "additional": "FC SD 7:111-128",
+   "additionalKind": "confessions"
+  },
+  "10-16": {
+   "ot": "Deut 14:1–2, 22–23, 14:28—15:15",
+   "nt": "Matt 13:24–43",
+   "additional": "FC SD 8:1-11",
+   "additionalKind": "confessions"
+  },
+  "10-17": {
+   "ot": "Deut 15:19—16:22",
+   "nt": "Matt 13:44–58",
+   "additional": "FC SD 8:12-22",
+   "additionalKind": "confessions"
+  },
+  "10-18": {
+   "ot": "Deut 17:1–20",
+   "nt": "Matt 14:1–21",
+   "additional": "FC SD 8:23-34",
+   "additionalKind": "confessions"
+  },
+  "10-19": {
+   "ot": "Deut 18:1–22",
+   "nt": "Matt 14:22–36",
+   "additional": "FC SD 8:35-43",
+   "additionalKind": "confessions"
+  },
+  "10-20": {
+   "ot": "Deut 19:1–20",
+   "nt": "Matt 15:1–20",
+   "additional": "FC SD 8:44-53",
+   "additionalKind": "confessions"
+  },
+  "10-21": {
+   "ot": "Deut 20:1–20",
+   "nt": "Matt 15:21–39",
+   "additional": "FC SD 8:54-63",
+   "additionalKind": "confessions"
+  },
+  "10-22": {
+   "ot": "Deut 21:1–23",
+   "nt": "Matt 16:1–12",
+   "additional": "Deut 22:1—24:9",
+   "additionalKind": "scripture"
+  },
+  "10-23": {
+   "ot": "Deut 24:10—25:10",
+   "nt": "Matt 16:13–28",
+   "additional": "FC SD 8:64-71",
+   "additionalKind": "confessions"
+  },
+  "10-24": {
+   "ot": "Deut 25:17—26:19",
+   "nt": "Matt 17:1–13",
+   "additional": "FC SD 8:72-84",
+   "additionalKind": "confessions"
+  },
+  "10-25": {
+   "ot": "Deut 27:1–26",
+   "nt": "Matt 17:14–27",
+   "additional": "FC SD 8:85-96",
+   "additionalKind": "confessions"
+  },
+  "10-26": {
+   "ot": "Deut 28:1–22",
+   "nt": "Matt 18:1–20",
+   "additional": "FC SD 9, 10:1-9",
+   "additionalKind": "confessions"
+  },
+  "10-27": {
+   "ot": "Deut 29:1–29",
+   "nt": "Matt 18:21–35",
+   "additional": "FC SD 10:10-18",
+   "additionalKind": "confessions"
+  },
+  "10-28": {
+   "ot": "Deut 30:1–20",
+   "nt": "Matt 19:1–15",
+   "additional": "FC SD 10:19-31",
+   "additionalKind": "confessions"
+  },
+  "10-29": {
+   "ot": "Deut 31:1–29",
+   "nt": "Matt 19:16–30",
+   "additional": "FC SD 11:1-22",
+   "additionalKind": "confessions"
+  },
+  "10-30": {
+   "ot": "Deut 31:30—32:27",
+   "nt": "Matt 20:1–16",
+   "additional": "FC SD 11:23-42",
+   "additionalKind": "confessions"
+  },
+  "10-31": {
+   "ot": "Deut 32:28–52",
+   "nt": "Matt 20:17–34",
+   "additional": "Deut 33:1–29",
+   "additionalKind": "scripture"
+  },
+  "11-01": {
+   "ot": "Deut 34:1–12",
+   "nt": "Matt 21:1–22",
+   "additional": "FC SD 11:43-67",
+   "additionalKind": "confessions"
+  },
+  "11-02": {
+   "ot": "Jer 1:1–19",
+   "nt": "Matt 21:23–46",
+   "additional": "FC SD 11:68-96",
+   "additionalKind": "confessions"
+  },
+  "11-03": {
+   "ot": "Jer 3:6—4:2",
+   "nt": "Matt 22:1–22",
+   "additional": "Baruch 1",
+   "additionalKind": "scripture"
+  },
+  "11-04": {
+   "ot": "Jer 5:1–19",
+   "nt": "Matt 22:23–46",
+   "additional": "Baruch 2",
+   "additionalKind": "scripture"
+  },
+  "11-05": {
+   "ot": "Jer 7:1–29",
+   "nt": "Matt 23:1–12",
+   "additional": "Baruch 3:1-19",
+   "additionalKind": "scripture"
+  },
+  "11-06": {
+   "ot": "Jer 8:18—9:12",
+   "nt": "Matt 23:13–39",
+   "additional": "Baruch 3:20-37",
+   "additionalKind": "scripture"
+  },
+  "11-07": {
+   "ot": "Jer 11:1–23",
+   "nt": "Matt 24:1–28",
+   "additional": "Jer 12:1—19:15",
+   "additionalKind": "scripture"
+  },
+  "11-08": {
+   "ot": "Jer 20:1–18",
+   "nt": "Matt 24:29–51",
+   "additional": "Baruch 4:1-16",
+   "additionalKind": "scripture"
+  },
+  "11-09": {
+   "ot": "Jer 22:1–23",
+   "nt": "Matt 25:1–13",
+   "additional": "Baruch 4:17-37",
+   "additionalKind": "scripture"
+  },
+  "11-10": {
+   "ot": "Jer 23:1–20",
+   "nt": "Matt 25:14–30",
+   "additional": "Baruch 5",
+   "additionalKind": "scripture"
+  },
+  "11-11": {
+   "ot": "Jer 23:21–40",
+   "nt": "Matt 25:31–46",
+   "additional": "Letter Of Jeremiah 1:1-29",
+   "additionalKind": "scripture"
+  },
+  "11-12": {
+   "ot": "Jer 25:1–18",
+   "nt": "Matt 26:1–19",
+   "additional": "Letter Of Jeremiah 1:30-70",
+   "additionalKind": "scripture"
+  },
+  "11-13": {
+   "ot": "Jer 26:1–19",
+   "nt": "Matt 26:20–35",
+   "additional": "Rev 13:1–18",
+   "additionalKind": "scripture"
+  },
+  "11-14": {
+   "ot": "Jer 29:1–19",
+   "nt": "Matt 26:36–56",
+   "additional": "Rev 14:1–20",
+   "additionalKind": "scripture"
+  },
+  "11-15": {
+   "ot": "Jer 30:1–24",
+   "nt": "Matt 26:57–75",
+   "additional": "Rev 15:1–8",
+   "additionalKind": "scripture"
+  },
+  "11-16": {
+   "ot": "Jer 31:1–17, 23–34",
+   "nt": "Matt 27:1–10",
+   "additional": "Rev 16:1–21",
+   "additionalKind": "scripture"
+  },
+  "11-17": {
+   "ot": "Jer 33:1–22",
+   "nt": "Matt 27:11–32",
+   "additional": "Jer 34:1—36:32; 45:1—51:64",
+   "additionalKind": "scripture"
+  },
+  "11-18": {
+   "ot": "Jer 37:1–21",
+   "nt": "Matt 27:33–56",
+   "additional": "Rev 17:1–18",
+   "additionalKind": "scripture"
+  },
+  "11-19": {
+   "ot": "Jer 38:1–28",
+   "nt": "Matt 27:57–66",
+   "additional": "Jer 39:1—44:30",
+   "additionalKind": "scripture"
+  },
+  "11-20": {
+   "ot": "Dan 1:1–21",
+   "nt": "Matt 28:1–20",
+   "additional": "Susanna 1-18",
+   "additionalKind": "scripture"
+  },
+  "11-21": {
+   "ot": "Dan 2:1–23",
+   "nt": "Rev 18:1–24",
+   "additional": "Susanna 19-41",
+   "additionalKind": "scripture"
+  },
+  "11-22": {
+   "ot": "Dan 2:24–49",
+   "nt": "Rev 19:1–21",
+   "additional": "Susanna 42-64",
+   "additionalKind": "scripture"
+  },
+  "11-23": {
+   "ot": "Dan 3:1–30",
+   "nt": "Rev 20:1–15",
+   "additional": "Bel 1-22",
+   "additionalKind": "scripture"
+  },
+  "11-24": {
+   "ot": "Dan 4:1–37",
+   "nt": "Rev 21:1–8",
+   "additional": "Bel 23-42",
+   "additionalKind": "scripture"
+  },
+  "11-25": {
+   "ot": "Dan 5:1–30",
+   "nt": "Rev 21:9–27",
+   "additional": "Dan 7:1—8:27",
+   "additionalKind": "scripture"
+  },
+  "11-26": {
+   "ot": "Dan 6:1–28",
+   "nt": "Rev 22:1–21",
+   "additional": "Dan 9:1–27",
+   "additionalKind": "scripture"
+  },
+  "11-27": {
+   "ot": "Is 1:1–28",
+   "nt": "1 Pet 1:1–12",
+   "additional": "FC SD 12:1-27",
+   "additionalKind": "confessions"
+  },
+  "11-28": {
+   "ot": "Is 2:1–22",
+   "nt": "1 Pet 1:13–25",
+   "additional": "Isaiah 3:1—4:6",
+   "additionalKind": "scripture"
+  },
+  "11-29": {
+   "ot": "Is 5:1–25",
+   "nt": "1 Pet 2:1–12",
+   "additional": "Amos 1:1—9:15",
+   "additionalKind": "scripture"
+  },
+  "11-30": {
+   "ot": "Is 6:1—7:9",
+   "nt": "1 Pet 2:13–25",
+   "additional": "FC SD 12:28-40",
+   "additionalKind": "confessions"
+  },
+  "12-01": {
+   "ot": "Is 7:10—8:8",
+   "nt": "1 Pet 3:1–22",
+   "additional": "Judith 1",
+   "additionalKind": "scripture"
+  },
+  "12-02": {
+   "ot": "Is 8:9—9:7",
+   "nt": "1 Pet 4:1–19",
+   "additional": "Judith 2",
+   "additionalKind": "scripture"
+  },
+  "12-03": {
+   "ot": "Is 9:8—10:11",
+   "nt": "1 Pet 5:1–14",
+   "additional": "Judith 3",
+   "additionalKind": "scripture"
+  },
+  "12-04": {
+   "ot": "Is 10:12–27a, 33–34",
+   "nt": "2 Pet 1:1–21",
+   "additional": "Judith 4",
+   "additionalKind": "scripture"
+  },
+  "12-05": {
+   "ot": "Is 11:1—12:6",
+   "nt": "2 Pet 2:1–22",
+   "additional": "Judith 5",
+   "additionalKind": "scripture"
+  },
+  "12-06": {
+   "ot": "Is 14:1–23",
+   "nt": "2 Pet 3:1–18",
+   "additional": "Judith 6",
+   "additionalKind": "scripture"
+  },
+  "12-07": {
+   "ot": "Is 24:1–13",
+   "nt": "1 John 1:1—2:14",
+   "additional": "Judith 7:1-16",
+   "additionalKind": "scripture"
+  },
+  "12-08": {
+   "ot": "Is 24:14—25:12",
+   "nt": "1 John 2:15–29",
+   "additional": "Obadiah 1–21",
+   "additionalKind": "scripture"
+  },
+  "12-09": {
+   "ot": "Is 26:1–19",
+   "nt": "1 John 3:1–24",
+   "additional": "Judith 7:17-32",
+   "additionalKind": "scripture"
+  },
+  "12-10": {
+   "ot": "Is 26:20—27:13",
+   "nt": "1 John 4:1–21",
+   "additional": "Judith 8:1-24",
+   "additionalKind": "scripture"
+  },
+  "12-11": {
+   "ot": "Is 28:14–29",
+   "nt": "1 John 5:1–21",
+   "additional": "2 John 1–13; 3 John 1–15",
+   "additionalKind": "scripture"
+  },
+  "12-12": {
+   "ot": "Is 29:1–14",
+   "nt": "Jude 1–25",
+   "additional": "Judith 8:25-36",
+   "additionalKind": "scripture"
+  },
+  "12-13": {
+   "ot": "Is 29:15—30:14",
+   "nt": "Rev 1:1–19",
+   "additional": "Judith 9",
+   "additionalKind": "scripture"
+  },
+  "12-14": {
+   "ot": "Is 30:15–26",
+   "nt": "Rev 2:1–29",
+   "additional": "Judith 10",
+   "additionalKind": "scripture"
+  },
+  "12-15": {
+   "ot": "Is 30:27—31:9",
+   "nt": "Rev 3:1–22",
+   "additional": "Judith 11",
+   "additionalKind": "scripture"
+  },
+  "12-16": {
+   "ot": "Is 32:1–20",
+   "nt": "Rev 4:1–11",
+   "additional": "Judith 12",
+   "additionalKind": "scripture"
+  },
+  "12-17": {
+   "ot": "Is 33:1–24",
+   "nt": "Rev 5:1–14",
+   "additional": "Judith 13",
+   "additionalKind": "scripture"
+  },
+  "12-18": {
+   "ot": "Is 34:1–2, 8—35:10",
+   "nt": "Rev 6:1–17",
+   "additional": "Micah 1:1—7:20",
+   "additionalKind": "scripture"
+  },
+  "12-19": {
+   "ot": "Is 40:1–17",
+   "nt": "Rev 7:1–17",
+   "additional": "Judith 14",
+   "additionalKind": "scripture"
+  },
+  "12-20": {
+   "ot": "Is 40:18—41:10",
+   "nt": "Rev 8:1–13",
+   "additional": "Judith 15",
+   "additionalKind": "scripture"
+  },
+  "12-21": {
+   "ot": "Is 42:1–25",
+   "nt": "Rev 9:1–12",
+   "additional": "Judith 16",
+   "additionalKind": "scripture"
+  },
+  "12-22": {
+   "ot": "Is 43:1–24",
+   "nt": "Rev 9:13—10:11",
+   "additional": "Wisdom of Sol. 1",
+   "additionalKind": "scripture"
+  },
+  "12-23": {
+   "ot": "Is 43:25—44:20",
+   "nt": "Rev 11:1–19",
+   "additional": "Wisdom of Sol. 2",
+   "additionalKind": "scripture"
+  },
+  "12-24": {
+   "ot": "Is 44:21—45:13, 20–25",
+   "nt": "Rev 12:1–17",
+   "additional": "Daniel 10:1—12:13 and Isaiah 48:1–22",
+   "additionalKind": "scripture"
+  },
+  "12-25": {
+   "ot": "Is 49:1–18",
+   "nt": "Matt 1:1–17",
+   "additional": "Wisdom of Sol. 3",
+   "additionalKind": "scripture"
+  },
+  "12-26": {
+   "ot": "Is 49:22–26; 50:4—51:8, 12–16",
+   "nt": "Matt 1:18–25",
+   "additional": "Wisdom of Sol. 4",
+   "additionalKind": "scripture"
+  },
+  "12-27": {
+   "ot": "Is 51:17—52:12",
+   "nt": "Matt 2:1–12",
+   "additional": "Wisdom of Sol. 5",
+   "additionalKind": "scripture"
+  },
+  "12-28": {
+   "ot": "Is 52:13—54:10",
+   "nt": "Matt 2:13–23",
+   "additional": "Wisdom of Sol. 6",
+   "additionalKind": "scripture"
+  },
+  "12-29": {
+   "ot": "Is 55:1–13",
+   "nt": "Luke 1:1–25",
+   "additional": "Wisdom of Sol. 7",
+   "additionalKind": "scripture"
+  },
+  "12-30": {
+   "ot": "Is 58:1—59:3, 14–21",
+   "nt": "Luke 1:26–38",
+   "additional": "Wisdom of Sol. 8",
+   "additionalKind": "scripture"
+  },
+  "12-31": {
+   "ot": "Is 60:1–22",
+   "nt": "Luke 1:39–56",
+   "additional": "Wisdom of Sol. 9",
+   "additionalKind": "scripture"
+  },
+  "01-01": {
+   "ot": "Is 61:1–11",
+   "nt": "Luke 1:57–80",
+   "additional": "Wisdom of Sol. 10",
+   "additionalKind": "scripture"
+  },
+  "01-02": {
+   "ot": "Is 62:1–12",
+   "nt": "Luke 2:1–20",
+   "additional": "Wisdom of Sol. 11",
+   "additionalKind": "scripture"
+  },
+  "01-03": {
+   "ot": "Is 63:1–14",
+   "nt": "Luke 2:21–40",
+   "additional": "Wisdom of Sol. 12",
+   "additionalKind": "scripture"
+  },
+  "01-04": {
+   "ot": "Is 63:15—65:2",
+   "nt": "Luke 2:41–52",
+   "additional": "Wisdom of Sol. 13",
+   "additionalKind": "scripture"
+  },
+  "01-05": {
+   "ot": "Is 65:8–25",
+   "nt": "Luke 3:1–20",
+   "additional": "Wisdom of Sol. 14",
+   "additionalKind": "scripture"
+  },
+  "01-06": {
+   "ot": "Is 66:1–20",
+   "nt": "Luke 3:21–38",
+   "additional": "Wisdom of Sol. 15",
+   "additionalKind": "scripture"
+  },
+  "01-07": {
+   "ot": "Ezek 1:1–14, 22–28",
+   "nt": "Rom 1:1–17",
+   "additional": "Habakkuk 1:1—3:19",
+   "additionalKind": "scripture"
+  },
+  "01-08": {
+   "ot": "Ezek 2:1—3:11",
+   "nt": "Rom 1:18–32",
+   "additional": "Wisdom of Sol. 16",
+   "additionalKind": "scripture"
+  },
+  "01-09": {
+   "ot": "Ezek 3:12–28",
+   "nt": "Rom 2:1–16",
+   "additional": "Ezek 4:1—11:25",
+   "additionalKind": "scripture"
+  },
+  "01-10": {
+   "ot": "Ezek 18:1–4, 19–32",
+   "nt": "Rom 2:17–29",
+   "additional": "Ezek 19:1—24:27",
+   "additionalKind": "scripture"
+  },
+  "01-11": {
+   "ot": "Ezek 33:1–20",
+   "nt": "Rom 3:1–18",
+   "additional": "Wisdom of Sol. 17",
+   "additionalKind": "scripture"
+  },
+  "01-12": {
+   "ot": "Ezek 34:1–24",
+   "nt": "Rom 3:19–31",
+   "additional": "Wisdom of Sol. 18",
+   "additionalKind": "scripture"
+  },
+  "01-13": {
+   "ot": "Ezek 36:13–28",
+   "nt": "Rom 4:1–25",
+   "additional": "Wisdom of Sol. 19",
+   "additionalKind": "scripture"
+  },
+  "01-14": {
+   "ot": "Ezek 36:33—37:14",
+   "nt": "Rom 5:1–21",
+   "additional": "Cat. Test. preface",
+   "additionalKind": "confessions"
+  },
+  "01-15": {
+   "ot": "Ezek 37:15–28",
+   "nt": "Rom 6:1–23",
+   "additional": "Cat. Test. 1",
+   "additionalKind": "confessions"
+  },
+  "01-16": {
+   "ot": "Ezek 38:1–23",
+   "nt": "Rom 7:1–20",
+   "additional": "Cat. Test. 2",
+   "additionalKind": "confessions"
+  },
+  "01-17": {
+   "ot": "Ezek 39:1–10, 17–29",
+   "nt": "Rom 7:21—8:17",
+   "additional": "Cat. Test. 3",
+   "additionalKind": "confessions"
+  },
+  "01-18": {
+   "ot": "Ezek 40:1–4; 43:1–12",
+   "nt": "Rom 8:18–39",
+   "additional": "Ezek 40:5—42:20; 43:13–27",
+   "additionalKind": "scripture"
+  },
+  "01-19": {
+   "ot": "Ezek 44:1–16, 23–29",
+   "nt": "Rom 9:1–18",
+   "additional": "Cat. Test. 4",
+   "additionalKind": "confessions"
+  },
+  "01-20": {
+   "ot": "Ezek 47:1–14, 21–23",
+   "nt": "Rom 9:19–33",
+   "additional": "Cat. Test. 5",
+   "additionalKind": "confessions"
+  },
+  "01-21": {
+   "ot": "Joel 1:1–20",
+   "nt": "Rom 10:1–21",
+   "additional": "Cat. Test. 6-8",
+   "additionalKind": "confessions"
+  },
+  "01-22": {
+   "ot": "Joel 2:1–17",
+   "nt": "Rom 11:1–24",
+   "additional": "Cat. Test. 9-10, Conclus.",
+   "additionalKind": "confessions"
+  },
+  "01-23": {
+   "ot": "Joel 2:18–32",
+   "nt": "Rom 11:25—12:13",
+   "additional": "Ap. preface; 1; 2:1-14",
+   "additionalKind": "confessions"
+  },
+  "01-24": {
+   "ot": "Joel 3:1–21",
+   "nt": "Rom 12:14—13:14",
+   "additional": "Ap. 2:15-51",
+   "additionalKind": "confessions"
+  },
+  "01-25": {
+   "ot": "Zech 1:1–21",
+   "nt": "Rom 14:1–23",
+   "additional": "Ap. 3; 4:1-28",
+   "additionalKind": "confessions"
+  },
+  "01-26": {
+   "ot": "Zech 2:1—3:10",
+   "nt": "Rom 15:1–13",
+   "additional": "Ap. 4:29-60",
+   "additionalKind": "confessions"
+  },
+  "01-27": {
+   "ot": "Zech 4:1—5:11",
+   "nt": "Rom 15:14–33",
+   "additional": "Ap. 4:61-85",
+   "additionalKind": "confessions"
+  },
+  "01-28": {
+   "ot": "Zech 6:1—7:14",
+   "nt": "Rom 16:17–27",
+   "additional": "Ap. 4:86-116",
+   "additionalKind": "confessions"
+  },
+  "01-29": {
+   "ot": "Zech 8:1–23",
+   "nt": "2 Tim 1:1–18",
+   "additional": "Ap. 4:117-146",
+   "additionalKind": "confessions"
+  },
+  "01-30": {
+   "ot": "Zech 9:1–17",
+   "nt": "2 Tim 2:1–26",
+   "additional": "Ap. 4:147-182",
+   "additionalKind": "confessions"
+  },
+  "01-31": {
+   "ot": "Zech 10:1—11:3",
+   "nt": "2 Tim 3:1–18",
+   "additional": "Ap. 7/8:1-22",
+   "additionalKind": "confessions"
+  },
+  "02-01": {
+   "ot": "Zech 11:4–17",
+   "nt": "2 Tim 4:1–18",
+   "additional": "Ap. 7/8:23-41",
+   "additionalKind": "confessions"
+  },
+  "02-02": {
+   "ot": "Zech 12:1—13:9",
+   "nt": "Titus 1:1—2:6",
+   "additional": "Ap. 7/8:42-50; 9; 10",
+   "additionalKind": "confessions"
+  },
+  "02-03": {
+   "ot": "Zech 14:1–21",
+   "nt": "Titus 2:7—3:15",
+   "additional": "Ap. 11; 12:1-15",
+   "additionalKind": "confessions"
+  },
+  "02-04": {
+   "ot": "Job 1:1–22",
+   "nt": "John 1:1–18",
+   "additional": "Ap. 12:16-48",
+   "additionalKind": "confessions"
+  },
+  "02-05": {
+   "ot": "Job 2:1—3:10",
+   "nt": "John 1:19–34",
+   "additional": "Ap. 12:49-71",
+   "additionalKind": "confessions"
+  },
+  "02-06": {
+   "ot": "Job 3:11–26",
+   "nt": "John 1:35–51",
+   "additional": "Ap. 12:72-97",
+   "additionalKind": "confessions"
+  },
+  "02-07": {
+   "ot": "Job 4:1–21",
+   "nt": "John 2:1–12",
+   "additional": "Ap. 12:98-124",
+   "additionalKind": "confessions"
+  },
+  "02-08": {
+   "ot": "Job 5:1–27",
+   "nt": "John 2:13–25",
+   "additional": "Ap. 12:125-147",
+   "additionalKind": "confessions"
+  },
+  "02-09": {
+   "ot": "Job 6:1–13",
+   "nt": "John 3:1–21",
+   "additional": "Ap. 12:148-166",
+   "additionalKind": "confessions"
+  },
+  "02-10": {
+   "ot": "Job 6:14–30",
+   "nt": "John 3:22—4:6",
+   "additional": "Ap. 12:167-178",
+   "additionalKind": "confessions"
+  },
+  "02-11": {
+   "ot": "Job 7:1–21",
+   "nt": "John 4:7–26",
+   "additional": "Ap. 13; 14",
+   "additionalKind": "confessions"
+  },
+  "02-12": {
+   "ot": "Job 8:1–22",
+   "nt": "John 4:27–45",
+   "additional": "Ap. 15:1-26",
+   "additionalKind": "confessions"
+  },
+  "02-13": {
+   "ot": "Job 9:1–35",
+   "nt": "John 4:46–54",
+   "additional": "Ap. 15:27-52",
+   "additionalKind": "confessions"
+  },
+  "02-14": {
+   "ot": "Job 10:1–22",
+   "nt": "John 5:1–18",
+   "additional": "Ap. 16; 17; 18",
+   "additionalKind": "confessions"
+  },
+  "02-15": {
+   "ot": "Job 11:1–20",
+   "nt": "John 5:19–29",
+   "additional": "Ap. 19; 20",
+   "additionalKind": "confessions"
+  },
+  "02-16": {
+   "ot": "Job 12:1–6, 12–25",
+   "nt": "John 5:30–47",
+   "additional": "Ap. 21:1-24",
+   "additionalKind": "confessions"
+  },
+  "02-17": {
+   "ot": "Job 13:1–12",
+   "nt": "John 6:1–21",
+   "additional": "Ap. 21:25-44",
+   "additionalKind": "confessions"
+  },
+  "02-18": {
+   "ot": "Job 13:13–28",
+   "nt": "John 6:22–40",
+   "additional": "Ap. 22",
+   "additionalKind": "confessions"
+  },
+  "02-19": {
+   "ot": "Job 14:1–22",
+   "nt": "John 6:41–59",
+   "additional": "Ap. 23:1-22",
+   "additionalKind": "confessions"
+  },
+  "02-20": {
+   "ot": "Job 15:1–23, 30–35",
+   "nt": "John 6:60–71",
+   "additional": "Ap. 23:23-51",
+   "additionalKind": "confessions"
+  },
+  "02-21": {
+   "ot": "Job 16:1–21",
+   "nt": "John 7:1–13",
+   "additional": "Ap. 23:52-71",
+   "additionalKind": "confessions"
+  },
+  "02-22": {
+   "ot": "Job 17:1–16",
+   "nt": "John 7:14–31",
+   "additional": "Ap. 24:1-26",
+   "additionalKind": "confessions"
+  },
+  "02-23": {
+   "ot": "Job 18:1–21",
+   "nt": "John 7:32–53",
+   "additional": "Ap. 24:27-47",
+   "additionalKind": "confessions"
+  },
+  "02-24": {
+   "ot": "Job 19:1–12, 21–27",
+   "nt": "John 8:1–20",
+   "additional": "Ap. 24:48-67",
+   "additionalKind": "confessions"
+  },
+  "02-25": {
+   "ot": "Job 20:1–23, 29",
+   "nt": "John 8:21–38",
+   "additional": "Ap. 24:68-88",
+   "additionalKind": "confessions"
+  },
+  "02-26": {
+   "ot": "Job 21:1–21",
+   "nt": "John 8:39–59",
+   "additional": "Job 21:22—30:15",
+   "additionalKind": "scripture"
+  },
+  "02-27": {
+   "ot": "Job 30:16–31",
+   "nt": "John 9:1–23",
+   "additional": "Ap. 24:89-99",
+   "additionalKind": "confessions"
+  },
+  "02-28": {
+   "ot": "Job 31:1–12, 33–40",
+   "nt": "John 9:24–41",
+   "additional": "Ap. 27:1-20",
+   "additionalKind": "confessions"
+  },
+  "02-29": {
+   "ot": "Job 32:1–22",
+   "nt": "John 10:1–21",
+   "additional": "Ap. 27:21-44",
+   "additionalKind": "confessions"
+  },
+  "03-01": {
+   "ot": "Job 33:1–18",
+   "nt": "John 10:22–42",
+   "additional": "Ap. 27:45-70",
+   "additionalKind": "confessions"
+  },
+  "03-02": {
+   "ot": "Job 33:19—34:9",
+   "nt": "John 11:1–16",
+   "additional": "Ap. 28",
+   "additionalKind": "confessions"
+  },
+  "03-03": {
+   "ot": "Job 34:10–33",
+   "nt": "John 11:17–37",
+   "additional": "Ap. 4:183-230",
+   "additionalKind": "confessions"
+  },
+  "03-04": {
+   "ot": "Job 36:1–21",
+   "nt": "John 11:38–57",
+   "additional": "Ap. 4:231-264",
+   "additionalKind": "confessions"
+  },
+  "03-05": {
+   "ot": "Job 37:1–24",
+   "nt": "John 12:1–19",
+   "additional": "Ap. 4:265-297",
+   "additionalKind": "confessions"
+  },
+  "03-06": {
+   "ot": "Job 38:1–18",
+   "nt": "John 12:20–36a",
+   "additional": "Job 38:19—39:30",
+   "additionalKind": "scripture"
+  },
+  "03-07": {
+   "ot": "Job 40:1–24",
+   "nt": "John 12:36b–50",
+   "additional": "Ap. 4:298-347",
+   "additionalKind": "confessions"
+  },
+  "03-08": {
+   "ot": "Job 41:1–20, 31–34",
+   "nt": "John 13:1–20",
+   "additional": "Ap. 4:348-374",
+   "additionalKind": "confessions"
+  },
+  "03-09": {
+   "ot": "Job 42:1–17",
+   "nt": "John 13:21–38",
+   "additional": "Ap. 4:375-400",
+   "additionalKind": "confessions"
+  }
+ }
+}
