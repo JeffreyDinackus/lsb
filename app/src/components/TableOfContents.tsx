@@ -127,9 +127,9 @@ export function TableOfContents({ onSelect, onBack }: TocProps) {
         </nav>
 
         <footer className="toc-footer">
-          <a className="toc-hub-link" href="https://prayernetwork.christ.software">
+          <a className="toc-hub-link" href="https://christ.software">
             <span className="toc-hub-title">More prayer books</span>
-            <span className="toc-hub-url">prayernetwork.christ.software ›</span>
+            <span className="toc-hub-url">christ.software ›</span>
           </a>
         </footer>
       </div>
